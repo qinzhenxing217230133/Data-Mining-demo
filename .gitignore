@@ -1,0 +1,35 @@
+# Compiled Python files
+*.pyc
+*.pyo
+
+# Virtual environment directories
+*.venv
+env/
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs_v1.db
+ehthumbs_v2.db
+*.crash
+*.dSYM
+*.ipa
+*.framework
+*.framework.dSYM
+*.nib
+*.xcframework
+*.xcworkspaces
+*.xcworkspace
+*.xcode
+
+# Other
+*.swidtag
+*.swifindex
+*.build
+Build/
+*.pbxcode
+*.mode1v3
+*.mode2v3
