@@ -1,0 +1,4502 @@
+[
+  {
+    "student_id": 1,
+    "first_name": "Drew",
+    "last_name": "Johnson",
+    "email": "drew.johnson1@uni.edu",
+    "major": "ECON",
+    "year": 2,
+    "gpa": 3.06
+  },
+  {
+    "student_id": 2,
+    "first_name": "Riley",
+    "last_name": "Wilson",
+    "email": "riley.wilson2@uni.edu",
+    "major": "ENG",
+    "year": 2,
+    "gpa": 2.13
+  },
+  {
+    "student_id": 3,
+    "first_name": "Morgan",
+    "last_name": "Johnson",
+    "email": "morgan.johnson3@uni.edu",
+    "major": "CS",
+    "year": 1,
+    "gpa": 3.53
+  },
+  {
+    "student_id": 4,
+    "first_name": "Morgan",
+    "last_name": "Johnson",
+    "email": "morgan.johnson4@uni.edu",
+    "major": "ECON",
+    "year": 1,
+    "gpa": 3.22
+  },
+  {
+    "student_id": 5,
+    "first_name": "Drew",
+    "last_name": "Clark",
+    "email": "drew.clark5@uni.edu",
+    "major": "CS",
+    "year": 2,
+    "gpa": 3.54
+  },
+  {
+    "student_id": 6,
+    "first_name": "Alex",
+    "last_name": "Brown",
+    "email": "alex.brown6@uni.edu",
+    "major": "ECON",
+    "year": 4,
+    "gpa": 2.71
+  },
+  {
+    "student_id": 7,
+    "first_name": "Alex",
+    "last_name": "Hall",
+    "email": "alex.hall7@uni.edu",
+    "major": "CS",
+    "year": 2,
+    "gpa": 2.42
+  },
+  {
+    "student_id": 8,
+    "first_name": "Taylor",
+    "last_name": "Hall",
+    "email": "taylor.hall8@uni.edu",
+    "major": "CS",
+    "year": 1,
+    "gpa": 3.57
+  },
+  {
+    "student_id": 9,
+    "first_name": "Drew",
+    "last_name": "Miller",
+    "email": "drew.miller9@uni.edu",
+    "major": "CS",
+    "year": 4,
+    "gpa": 3.53
+  },
+  {
+    "student_id": 10,
+    "first_name": "Casey",
+    "last_name": "Hall",
+    "email": "casey.hall10@uni.edu",
+    "major": "MATH",
+    "year": 3,
+    "gpa": 3.05
+  },
+  {
+    "student_id": 11,
+    "first_name": "Drew",
+    "last_name": "Moore",
+    "email": "drew.moore11@uni.edu",
+    "major": "ECON",
+    "year": 1,
+    "gpa": 3.51
+  },
+  {
+    "student_id": 12,
+    "first_name": "Avery",
+    "last_name": "Wilson",
+    "email": "avery.wilson12@uni.edu",
+    "major": "ENG",
+    "year": 1,
+    "gpa": 3.52
+  },
+  {
+    "student_id": 13,
+    "first_name": "Avery",
+    "last_name": "Brown",
+    "email": "avery.brown13@uni.edu",
+    "major": "BIO",
+    "year": 2,
+    "gpa": 3.09
+  },
+  {
+    "student_id": 14,
+    "first_name": "Avery",
+    "last_name": "Davis",
+    "email": "avery.davis14@uni.edu",
+    "major": "MATH",
+    "year": 3,
+    "gpa": 4.0
+  },
+  {
+    "student_id": 15,
+    "first_name": "Jordan",
+    "last_name": "Miller",
+    "email": "jordan.miller15@uni.edu",
+    "major": "CS",
+    "year": 2,
+    "gpa": 3.33
+  },
+  {
+    "student_id": 16,
+    "first_name": "Jordan",
+    "last_name": "Clark",
+    "email": "jordan.clark16@uni.edu",
+    "major": "BIO",
+    "year": 2,
+    "gpa": 2.0
+  },
+  {
+    "student_id": 17,
+    "first_name": "Avery",
+    "last_name": "Clark",
+    "email": "avery.clark17@uni.edu",
+    "major": "ENG",
+    "year": 2,
+    "gpa": 3.0
+  },
+  {
+    "student_id": 18,
+    "first_name": "Morgan",
+    "last_name": "Miller",
+    "email": "morgan.miller18@uni.edu",
+    "major": "ENG",
+    "year": 2,
+    "gpa": 2.61
+  },
+  {
+    "student_id": 19,
+    "first_name": "Alex",
+    "last_name": "Clark",
+    "email": "alex.clark19@uni.edu",
+    "major": "ENG",
+    "year": 4,
+    "gpa": 3.37
+  },
+  {
+    "student_id": 20,
+    "first_name": "Taylor",
+    "last_name": "Brown",
+    "email": "taylor.brown20@uni.edu",
+    "major": "MATH",
+    "year": 2,
+    "gpa": 2.29
+  },
+  {
+    "student_id": 21,
+    "first_name": "Casey",
+    "last_name": "Hall",
+    "email": "casey.hall21@uni.edu",
+    "major": "MATH",
+    "year": 3,
+    "gpa": 3.02
+  },
+  {
+    "student_id": 22,
+    "first_name": "Sam",
+    "last_name": "Hall",
+    "email": "sam.hall22@uni.edu",
+    "major": "ECON",
+    "year": 2,
+    "gpa": 3.87
+  },
+  {
+    "student_id": 23,
+    "first_name": "Jamie",
+    "last_name": "Brown",
+    "email": "jamie.brown23@uni.edu",
+    "major": "BIO",
+    "year": 3,
+    "gpa": 3.36
+  },
+  {
+    "student_id": 24,
+    "first_name": "Jamie",
+    "last_name": "Miller",
+    "email": "jamie.miller24@uni.edu",
+    "major": "BIO",
+    "year": 2,
+    "gpa": 2.79
+  },
+  {
+    "student_id": 25,
+    "first_name": "Taylor",
+    "last_name": "Hall",
+    "email": "taylor.hall25@uni.edu",
+    "major": "ECON",
+    "year": 2,
+    "gpa": 2.16
+  },
+  {
+    "student_id": 26,
+    "first_name": "Drew",
+    "last_name": "Lee",
+    "email": "drew.lee26@uni.edu",
+    "major": "MATH",
+    "year": 4,
+    "gpa": 2.63
+  },
+  {
+    "student_id": 27,
+    "first_name": "Avery",
+    "last_name": "Clark",
+    "email": "avery.clark27@uni.edu",
+    "major": "MATH",
+    "year": 1,
+    "gpa": 3.77
+  },
+  {
+    "student_id": 28,
+    "first_name": "Riley",
+    "last_name": "Clark",
+    "email": "riley.clark28@uni.edu",
+    "major": "BIO",
+    "year": 3,
+    "gpa": 3.03
+  },
+  {
+    "student_id": 29,
+    "first_name": "Riley",
+    "last_name": "Davis",
+    "email": "riley.davis29@uni.edu",
+    "major": "CS",
+    "year": 2,
+    "gpa": 2.62
+  },
+  {
+    "student_id": 30,
+    "first_name": "Drew",
+    "last_name": "Moore",
+    "email": "drew.moore30@uni.edu",
+    "major": "ENG",
+    "year": 4,
+    "gpa": 3.24
+  },
+  {
+    "student_id": 31,
+    "first_name": "Morgan",
+    "last_name": "Miller",
+    "email": "morgan.miller31@uni.edu",
+    "major": "BIO",
+    "year": 1,
+    "gpa": 3.56
+  },
+  {
+    "student_id": 32,
+    "first_name": "Taylor",
+    "last_name": "Hall",
+    "email": "taylor.hall32@uni.edu",
+    "major": "MATH",
+    "year": 3,
+    "gpa": 3.72
+  },
+  {
+    "student_id": 33,
+    "first_name": "Riley",
+    "last_name": "Brown",
+    "email": "riley.brown33@uni.edu",
+    "major": "MATH",
+    "year": 4,
+    "gpa": 3.3
+  },
+  {
+    "student_id": 34,
+    "first_name": "Drew",
+    "last_name": "Johnson",
+    "email": "drew.johnson34@uni.edu",
+    "major": "CS",
+    "year": 2,
+    "gpa": 2.52
+  },
+  {
+    "student_id": 35,
+    "first_name": "Avery",
+    "last_name": "Smith",
+    "email": "avery.smith35@uni.edu",
+    "major": "CS",
+    "year": 1,
+    "gpa": 3.62
+  },
+  {
+    "student_id": 36,
+    "first_name": "Avery",
+    "last_name": "Hall",
+    "email": "avery.hall36@uni.edu",
+    "major": "BIO",
+    "year": 3,
+    "gpa": 2.45
+  },
+  {
+    "student_id": 37,
+    "first_name": "Jordan",
+    "last_name": "Hall",
+    "email": "jordan.hall37@uni.edu",
+    "major": "BIO",
+    "year": 2,
+    "gpa": 3.28
+  },
+  {
+    "student_id": 38,
+    "first_name": "Morgan",
+    "last_name": "Clark",
+    "email": "morgan.clark38@uni.edu",
+    "major": "ENG",
+    "year": 4,
+    "gpa": 3.43
+  },
+  {
+    "student_id": 39,
+    "first_name": "Jordan",
+    "last_name": "Clark",
+    "email": "jordan.clark39@uni.edu",
+    "major": "BIO",
+    "year": 3,
+    "gpa": 2.4
+  },
+  {
+    "student_id": 40,
+    "first_name": "Jordan",
+    "last_name": "Moore",
+    "email": "jordan.moore40@uni.edu",
+    "major": "CS",
+    "year": 3,
+    "gpa": 2.05
+  },
+  {
+    "student_id": 41,
+    "first_name": "Drew",
+    "last_name": "Hall",
+    "email": "drew.hall41@uni.edu",
+    "major": "ECON",
+    "year": 2,
+    "gpa": 3.39
+  },
+  {
+    "student_id": 42,
+    "first_name": "Sam",
+    "last_name": "Wilson",
+    "email": "sam.wilson42@uni.edu",
+    "major": "ECON",
+    "year": 3,
+    "gpa": 2.84
+  },
+  {
+    "student_id": 43,
+    "first_name": "Sam",
+    "last_name": "Davis",
+    "email": "sam.davis43@uni.edu",
+    "major": "CS",
+    "year": 1,
+    "gpa": 3.83
+  },
+  {
+    "student_id": 44,
+    "first_name": "Drew",
+    "last_name": "Wilson",
+    "email": "drew.wilson44@uni.edu",
+    "major": "ECON",
+    "year": 3,
+    "gpa": 3.79
+  },
+  {
+    "student_id": 45,
+    "first_name": "Jordan",
+    "last_name": "Johnson",
+    "email": "jordan.johnson45@uni.edu",
+    "major": "BIO",
+    "year": 3,
+    "gpa": 3.84
+  },
+  {
+    "student_id": 46,
+    "first_name": "Drew",
+    "last_name": "Smith",
+    "email": "drew.smith46@uni.edu",
+    "major": "MATH",
+    "year": 4,
+    "gpa": 3.83
+  },
+  {
+    "student_id": 47,
+    "first_name": "Sam",
+    "last_name": "Miller",
+    "email": "sam.miller47@uni.edu",
+    "major": "BIO",
+    "year": 3,
+    "gpa": 2.25
+  },
+  {
+    "student_id": 48,
+    "first_name": "Casey",
+    "last_name": "Smith",
+    "email": "casey.smith48@uni.edu",
+    "major": "ENG",
+    "year": 3,
+    "gpa": 2.59
+  },
+  {
+    "student_id": 49,
+    "first_name": "Jordan",
+    "last_name": "Smith",
+    "email": "jordan.smith49@uni.edu",
+    "major": "CS",
+    "year": 1,
+    "gpa": 3.94
+  },
+  {
+    "student_id": 50,
+    "first_name": "Jordan",
+    "last_name": "Davis",
+    "email": "jordan.davis50@uni.edu",
+    "major": "ECON",
+    "year": 1,
+    "gpa": 2.34
+  },
+  {
+    "student_id": 51,
+    "first_name": "Riley",
+    "last_name": "Clark",
+    "email": "riley.clark51@uni.edu",
+    "major": "BIO",
+    "year": 3,
+    "gpa": 3.29
+  },
+  {
+    "student_id": 52,
+    "first_name": "Jamie",
+    "last_name": "Lee",
+    "email": "jamie.lee52@uni.edu",
+    "major": "ENG",
+    "year": 2,
+    "gpa": 2.53
+  },
+  {
+    "student_id": 53,
+    "first_name": "Casey",
+    "last_name": "Moore",
+    "email": "casey.moore53@uni.edu",
+    "major": "ECON",
+    "year": 2,
+    "gpa": 2.4
+  },
+  {
+    "student_id": 54,
+    "first_name": "Avery",
+    "last_name": "Johnson",
+    "email": "avery.johnson54@uni.edu",
+    "major": "ECON",
+    "year": 3,
+    "gpa": 2.29
+  },
+  {
+    "student_id": 55,
+    "first_name": "Jordan",
+    "last_name": "Davis",
+    "email": "jordan.davis55@uni.edu",
+    "major": "MATH",
+    "year": 1,
+    "gpa": 2.84
+  },
+  {
+    "student_id": 56,
+    "first_name": "Drew",
+    "last_name": "Clark",
+    "email": "drew.clark56@uni.edu",
+    "major": "MATH",
+    "year": 4,
+    "gpa": 3.3
+  },
+  {
+    "student_id": 57,
+    "first_name": "Taylor",
+    "last_name": "Brown",
+    "email": "taylor.brown57@uni.edu",
+    "major": "CS",
+    "year": 1,
+    "gpa": 2.64
+  },
+  {
+    "student_id": 58,
+    "first_name": "Casey",
+    "last_name": "Davis",
+    "email": "casey.davis58@uni.edu",
+    "major": "ECON",
+    "year": 1,
+    "gpa": 2.1
+  },
+  {
+    "student_id": 59,
+    "first_name": "Jordan",
+    "last_name": "Lee",
+    "email": "jordan.lee59@uni.edu",
+    "major": "CS",
+    "year": 2,
+    "gpa": 2.7
+  },
+  {
+    "student_id": 60,
+    "first_name": "Jamie",
+    "last_name": "Davis",
+    "email": "jamie.davis60@uni.edu",
+    "major": "BIO",
+    "year": 1,
+    "gpa": 2.25
+  },
+  {
+    "student_id": 61,
+    "first_name": "Sam",
+    "last_name": "Lee",
+    "email": "sam.lee61@uni.edu",
+    "major": "CS",
+    "year": 2,
+    "gpa": 2.43
+  },
+  {
+    "student_id": 62,
+    "first_name": "Casey",
+    "last_name": "Hall",
+    "email": "casey.hall62@uni.edu",
+    "major": "ENG",
+    "year": 2,
+    "gpa": 2.19
+  },
+  {
+    "student_id": 63,
+    "first_name": "Alex",
+    "last_name": "Brown",
+    "email": "alex.brown63@uni.edu",
+    "major": "ENG",
+    "year": 2,
+    "gpa": 3.35
+  },
+  {
+    "student_id": 64,
+    "first_name": "Sam",
+    "last_name": "Miller",
+    "email": "sam.miller64@uni.edu",
+    "major": "MATH",
+    "year": 3,
+    "gpa": 2.25
+  },
+  {
+    "student_id": 65,
+    "first_name": "Avery",
+    "last_name": "Wilson",
+    "email": "avery.wilson65@uni.edu",
+    "major": "ECON",
+    "year": 2,
+    "gpa": 2.33
+  },
+  {
+    "student_id": 66,
+    "first_name": "Drew",
+    "last_name": "Brown",
+    "email": "drew.brown66@uni.edu",
+    "major": "ENG",
+    "year": 2,
+    "gpa": 2.61
+  },
+  {
+    "student_id": 67,
+    "first_name": "Taylor",
+    "last_name": "Davis",
+    "email": "taylor.davis67@uni.edu",
+    "major": "BIO",
+    "year": 2,
+    "gpa": 3.13
+  },
+  {
+    "student_id": 68,
+    "first_name": "Riley",
+    "last_name": "Wilson",
+    "email": "riley.wilson68@uni.edu",
+    "major": "CS",
+    "year": 2,
+    "gpa": 3.33
+  },
+  {
+    "student_id": 69,
+    "first_name": "Sam",
+    "last_name": "Brown",
+    "email": "sam.brown69@uni.edu",
+    "major": "CS",
+    "year": 3,
+    "gpa": 2.6
+  },
+  {
+    "student_id": 70,
+    "first_name": "Jamie",
+    "last_name": "Hall",
+    "email": "jamie.hall70@uni.edu",
+    "major": "ENG",
+    "year": 2,
+    "gpa": 2.95
+  },
+  {
+    "student_id": 71,
+    "first_name": "Morgan",
+    "last_name": "Moore",
+    "email": "morgan.moore71@uni.edu",
+    "major": "ENG",
+    "year": 1,
+    "gpa": 2.79
+  },
+  {
+    "student_id": 72,
+    "first_name": "Riley",
+    "last_name": "Moore",
+    "email": "riley.moore72@uni.edu",
+    "major": "MATH",
+    "year": 1,
+    "gpa": 2.7
+  },
+  {
+    "student_id": 73,
+    "first_name": "Sam",
+    "last_name": "Hall",
+    "email": "sam.hall73@uni.edu",
+    "major": "BIO",
+    "year": 1,
+    "gpa": 3.18
+  },
+  {
+    "student_id": 74,
+    "first_name": "Alex",
+    "last_name": "Davis",
+    "email": "alex.davis74@uni.edu",
+    "major": "CS",
+    "year": 3,
+    "gpa": 3.37
+  },
+  {
+    "student_id": 75,
+    "first_name": "Jordan",
+    "last_name": "Miller",
+    "email": "jordan.miller75@uni.edu",
+    "major": "MATH",
+    "year": 1,
+    "gpa": 2.91
+  },
+  {
+    "student_id": 76,
+    "first_name": "Sam",
+    "last_name": "Hall",
+    "email": "sam.hall76@uni.edu",
+    "major": "MATH",
+    "year": 1,
+    "gpa": 2.68
+  },
+  {
+    "student_id": 77,
+    "first_name": "Jamie",
+    "last_name": "Clark",
+    "email": "jamie.clark77@uni.edu",
+    "major": "ENG",
+    "year": 3,
+    "gpa": 3.77
+  },
+  {
+    "student_id": 78,
+    "first_name": "Riley",
+    "last_name": "Clark",
+    "email": "riley.clark78@uni.edu",
+    "major": "BIO",
+    "year": 2,
+    "gpa": 3.24
+  },
+  {
+    "student_id": 79,
+    "first_name": "Sam",
+    "last_name": "Johnson",
+    "email": "sam.johnson79@uni.edu",
+    "major": "ECON",
+    "year": 2,
+    "gpa": 3.17
+  },
+  {
+    "student_id": 80,
+    "first_name": "Alex",
+    "last_name": "Clark",
+    "email": "alex.clark80@uni.edu",
+    "major": "BIO",
+    "year": 1,
+    "gpa": 2.29
+  },
+  {
+    "student_id": 81,
+    "first_name": "Taylor",
+    "last_name": "Miller",
+    "email": "taylor.miller81@uni.edu",
+    "major": "MATH",
+    "year": 4,
+    "gpa": 3.66
+  },
+  {
+    "student_id": 82,
+    "first_name": "Morgan",
+    "last_name": "Moore",
+    "email": "morgan.moore82@uni.edu",
+    "major": "CS",
+    "year": 3,
+    "gpa": 3.53
+  },
+  {
+    "student_id": 83,
+    "first_name": "Taylor",
+    "last_name": "Lee",
+    "email": "taylor.lee83@uni.edu",
+    "major": "MATH",
+    "year": 1,
+    "gpa": 2.87
+  },
+  {
+    "student_id": 84,
+    "first_name": "Jamie",
+    "last_name": "Davis",
+    "email": "jamie.davis84@uni.edu",
+    "major": "MATH",
+    "year": 1,
+    "gpa": 2.2
+  },
+  {
+    "student_id": 85,
+    "first_name": "Casey",
+    "last_name": "Hall",
+    "email": "casey.hall85@uni.edu",
+    "major": "ECON",
+    "year": 4,
+    "gpa": 3.0
+  },
+  {
+    "student_id": 86,
+    "first_name": "Jordan",
+    "last_name": "Davis",
+    "email": "jordan.davis86@uni.edu",
+    "major": "MATH",
+    "year": 3,
+    "gpa": 2.54
+  },
+  {
+    "student_id": 87,
+    "first_name": "Avery",
+    "last_name": "Clark",
+    "email": "avery.clark87@uni.edu",
+    "major": "ENG",
+    "year": 1,
+    "gpa": 2.71
+  },
+  {
+    "student_id": 88,
+    "first_name": "Jordan",
+    "last_name": "Brown",
+    "email": "jordan.brown88@uni.edu",
+    "major": "ECON",
+    "year": 4,
+    "gpa": 2.57
+  },
+  {
+    "student_id": 89,
+    "first_name": "Taylor",
+    "last_name": "Lee",
+    "email": "taylor.lee89@uni.edu",
+    "major": "ECON",
+    "year": 2,
+    "gpa": 3.34
+  },
+  {
+    "student_id": 90,
+    "first_name": "Jamie",
+    "last_name": "Davis",
+    "email": "jamie.davis90@uni.edu",
+    "major": "CS",
+    "year": 3,
+    "gpa": 3.82
+  },
+  {
+    "student_id": 91,
+    "first_name": "Alex",
+    "last_name": "Brown",
+    "email": "alex.brown91@uni.edu",
+    "major": "BIO",
+    "year": 4,
+    "gpa": 3.92
+  },
+  {
+    "student_id": 92,
+    "first_name": "Alex",
+    "last_name": "Davis",
+    "email": "alex.davis92@uni.edu",
+    "major": "CS",
+    "year": 3,
+    "gpa": 3.63
+  },
+  {
+    "student_id": 93,
+    "first_name": "Riley",
+    "last_name": "Miller",
+    "email": "riley.miller93@uni.edu",
+    "major": "ECON",
+    "year": 1,
+    "gpa": 3.54
+  },
+  {
+    "student_id": 94,
+    "first_name": "Casey",
+    "last_name": "Clark",
+    "email": "casey.clark94@uni.edu",
+    "major": "ENG",
+    "year": 2,
+    "gpa": 2.97
+  },
+  {
+    "student_id": 95,
+    "first_name": "Morgan",
+    "last_name": "Johnson",
+    "email": "morgan.johnson95@uni.edu",
+    "major": "MATH",
+    "year": 4,
+    "gpa": 3.35
+  },
+  {
+    "student_id": 96,
+    "first_name": "Drew",
+    "last_name": "Hall",
+    "email": "drew.hall96@uni.edu",
+    "major": "ENG",
+    "year": 1,
+    "gpa": 3.35
+  },
+  {
+    "student_id": 97,
+    "first_name": "Morgan",
+    "last_name": "Clark",
+    "email": "morgan.clark97@uni.edu",
+    "major": "ENG",
+    "year": 3,
+    "gpa": 2.37
+  },
+  {
+    "student_id": 98,
+    "first_name": "Casey",
+    "last_name": "Brown",
+    "email": "casey.brown98@uni.edu",
+    "major": "BIO",
+    "year": 1,
+    "gpa": 3.03
+  },
+  {
+    "student_id": 99,
+    "first_name": "Sam",
+    "last_name": "Wilson",
+    "email": "sam.wilson99@uni.edu",
+    "major": "ENG",
+    "year": 2,
+    "gpa": 3.37
+  },
+  {
+    "student_id": 100,
+    "first_name": "Morgan",
+    "last_name": "Miller",
+    "email": "morgan.miller100@uni.edu",
+    "major": "ENG",
+    "year": 4,
+    "gpa": 3.3
+  },
+  {
+    "student_id": 101,
+    "first_name": "Morgan",
+    "last_name": "Hall",
+    "email": "morgan.hall101@uni.edu",
+    "major": "ECON",
+    "year": 4,
+    "gpa": 3.85
+  },
+  {
+    "student_id": 102,
+    "first_name": "Taylor",
+    "last_name": "Smith",
+    "email": "taylor.smith102@uni.edu",
+    "major": "ENG",
+    "year": 3,
+    "gpa": 2.47
+  },
+  {
+    "student_id": 103,
+    "first_name": "Alex",
+    "last_name": "Smith",
+    "email": "alex.smith103@uni.edu",
+    "major": "ECON",
+    "year": 1,
+    "gpa": 2.22
+  },
+  {
+    "student_id": 104,
+    "first_name": "Taylor",
+    "last_name": "Johnson",
+    "email": "taylor.johnson104@uni.edu",
+    "major": "ENG",
+    "year": 3,
+    "gpa": 2.66
+  },
+  {
+    "student_id": 105,
+    "first_name": "Casey",
+    "last_name": "Moore",
+    "email": "casey.moore105@uni.edu",
+    "major": "CS",
+    "year": 3,
+    "gpa": 3.85
+  },
+  {
+    "student_id": 106,
+    "first_name": "Casey",
+    "last_name": "Lee",
+    "email": "casey.lee106@uni.edu",
+    "major": "ECON",
+    "year": 2,
+    "gpa": 2.27
+  },
+  {
+    "student_id": 107,
+    "first_name": "Jordan",
+    "last_name": "Brown",
+    "email": "jordan.brown107@uni.edu",
+    "major": "ECON",
+    "year": 4,
+    "gpa": 3.97
+  },
+  {
+    "student_id": 108,
+    "first_name": "Morgan",
+    "last_name": "Clark",
+    "email": "morgan.clark108@uni.edu",
+    "major": "MATH",
+    "year": 3,
+    "gpa": 3.16
+  },
+  {
+    "student_id": 109,
+    "first_name": "Morgan",
+    "last_name": "Davis",
+    "email": "morgan.davis109@uni.edu",
+    "major": "ENG",
+    "year": 2,
+    "gpa": 3.52
+  },
+  {
+    "student_id": 110,
+    "first_name": "Drew",
+    "last_name": "Brown",
+    "email": "drew.brown110@uni.edu",
+    "major": "ECON",
+    "year": 3,
+    "gpa": 2.8
+  },
+  {
+    "student_id": 111,
+    "first_name": "Morgan",
+    "last_name": "Moore",
+    "email": "morgan.moore111@uni.edu",
+    "major": "ENG",
+    "year": 1,
+    "gpa": 2.81
+  },
+  {
+    "student_id": 112,
+    "first_name": "Jamie",
+    "last_name": "Smith",
+    "email": "jamie.smith112@uni.edu",
+    "major": "ECON",
+    "year": 2,
+    "gpa": 3.25
+  },
+  {
+    "student_id": 113,
+    "first_name": "Morgan",
+    "last_name": "Smith",
+    "email": "morgan.smith113@uni.edu",
+    "major": "MATH",
+    "year": 1,
+    "gpa": 3.09
+  },
+  {
+    "student_id": 114,
+    "first_name": "Sam",
+    "last_name": "Smith",
+    "email": "sam.smith114@uni.edu",
+    "major": "BIO",
+    "year": 3,
+    "gpa": 2.09
+  },
+  {
+    "student_id": 115,
+    "first_name": "Avery",
+    "last_name": "Davis",
+    "email": "avery.davis115@uni.edu",
+    "major": "ENG",
+    "year": 2,
+    "gpa": 3.08
+  },
+  {
+    "student_id": 116,
+    "first_name": "Riley",
+    "last_name": "Moore",
+    "email": "riley.moore116@uni.edu",
+    "major": "BIO",
+    "year": 3,
+    "gpa": 3.05
+  },
+  {
+    "student_id": 117,
+    "first_name": "Sam",
+    "last_name": "Clark",
+    "email": "sam.clark117@uni.edu",
+    "major": "BIO",
+    "year": 4,
+    "gpa": 3.21
+  },
+  {
+    "student_id": 118,
+    "first_name": "Riley",
+    "last_name": "Hall",
+    "email": "riley.hall118@uni.edu",
+    "major": "BIO",
+    "year": 2,
+    "gpa": 3.87
+  },
+  {
+    "student_id": 119,
+    "first_name": "Jamie",
+    "last_name": "Wilson",
+    "email": "jamie.wilson119@uni.edu",
+    "major": "BIO",
+    "year": 2,
+    "gpa": 2.99
+  },
+  {
+    "student_id": 120,
+    "first_name": "Riley",
+    "last_name": "Moore",
+    "email": "riley.moore120@uni.edu",
+    "major": "ENG",
+    "year": 1,
+    "gpa": 3.77
+  },
+  {
+    "student_id": 121,
+    "first_name": "Sam",
+    "last_name": "Moore",
+    "email": "sam.moore121@uni.edu",
+    "major": "BIO",
+    "year": 2,
+    "gpa": 3.53
+  },
+  {
+    "student_id": 122,
+    "first_name": "Jamie",
+    "last_name": "Miller",
+    "email": "jamie.miller122@uni.edu",
+    "major": "ENG",
+    "year": 1,
+    "gpa": 3.9
+  },
+  {
+    "student_id": 123,
+    "first_name": "Morgan",
+    "last_name": "Hall",
+    "email": "morgan.hall123@uni.edu",
+    "major": "MATH",
+    "year": 1,
+    "gpa": 3.69
+  },
+  {
+    "student_id": 124,
+    "first_name": "Jamie",
+    "last_name": "Clark",
+    "email": "jamie.clark124@uni.edu",
+    "major": "CS",
+    "year": 1,
+    "gpa": 2.23
+  },
+  {
+    "student_id": 125,
+    "first_name": "Riley",
+    "last_name": "Smith",
+    "email": "riley.smith125@uni.edu",
+    "major": "CS",
+    "year": 1,
+    "gpa": 3.11
+  },
+  {
+    "student_id": 126,
+    "first_name": "Sam",
+    "last_name": "Hall",
+    "email": "sam.hall126@uni.edu",
+    "major": "MATH",
+    "year": 4,
+    "gpa": 3.81
+  },
+  {
+    "student_id": 127,
+    "first_name": "Jamie",
+    "last_name": "Wilson",
+    "email": "jamie.wilson127@uni.edu",
+    "major": "MATH",
+    "year": 1,
+    "gpa": 2.96
+  },
+  {
+    "student_id": 128,
+    "first_name": "Drew",
+    "last_name": "Moore",
+    "email": "drew.moore128@uni.edu",
+    "major": "BIO",
+    "year": 3,
+    "gpa": 2.05
+  },
+  {
+    "student_id": 129,
+    "first_name": "Riley",
+    "last_name": "Miller",
+    "email": "riley.miller129@uni.edu",
+    "major": "CS",
+    "year": 2,
+    "gpa": 2.02
+  },
+  {
+    "student_id": 130,
+    "first_name": "Sam",
+    "last_name": "Miller",
+    "email": "sam.miller130@uni.edu",
+    "major": "MATH",
+    "year": 3,
+    "gpa": 2.73
+  },
+  {
+    "student_id": 131,
+    "first_name": "Casey",
+    "last_name": "Hall",
+    "email": "casey.hall131@uni.edu",
+    "major": "BIO",
+    "year": 3,
+    "gpa": 2.24
+  },
+  {
+    "student_id": 132,
+    "first_name": "Jamie",
+    "last_name": "Hall",
+    "email": "jamie.hall132@uni.edu",
+    "major": "ECON",
+    "year": 3,
+    "gpa": 2.84
+  },
+  {
+    "student_id": 133,
+    "first_name": "Drew",
+    "last_name": "Smith",
+    "email": "drew.smith133@uni.edu",
+    "major": "CS",
+    "year": 2,
+    "gpa": 3.08
+  },
+  {
+    "student_id": 134,
+    "first_name": "Casey",
+    "last_name": "Wilson",
+    "email": "casey.wilson134@uni.edu",
+    "major": "BIO",
+    "year": 2,
+    "gpa": 3.21
+  },
+  {
+    "student_id": 135,
+    "first_name": "Morgan",
+    "last_name": "Lee",
+    "email": "morgan.lee135@uni.edu",
+    "major": "ENG",
+    "year": 4,
+    "gpa": 2.03
+  },
+  {
+    "student_id": 136,
+    "first_name": "Casey",
+    "last_name": "Hall",
+    "email": "casey.hall136@uni.edu",
+    "major": "CS",
+    "year": 4,
+    "gpa": 3.1
+  },
+  {
+    "student_id": 137,
+    "first_name": "Avery",
+    "last_name": "Johnson",
+    "email": "avery.johnson137@uni.edu",
+    "major": "MATH",
+    "year": 1,
+    "gpa": 2.6
+  },
+  {
+    "student_id": 138,
+    "first_name": "Jordan",
+    "last_name": "Davis",
+    "email": "jordan.davis138@uni.edu",
+    "major": "ECON",
+    "year": 3,
+    "gpa": 3.74
+  },
+  {
+    "student_id": 139,
+    "first_name": "Sam",
+    "last_name": "Lee",
+    "email": "sam.lee139@uni.edu",
+    "major": "ENG",
+    "year": 2,
+    "gpa": 2.27
+  },
+  {
+    "student_id": 140,
+    "first_name": "Casey",
+    "last_name": "Johnson",
+    "email": "casey.johnson140@uni.edu",
+    "major": "ECON",
+    "year": 4,
+    "gpa": 2.97
+  },
+  {
+    "student_id": 141,
+    "first_name": "Sam",
+    "last_name": "Smith",
+    "email": "sam.smith141@uni.edu",
+    "major": "MATH",
+    "year": 1,
+    "gpa": 2.93
+  },
+  {
+    "student_id": 142,
+    "first_name": "Sam",
+    "last_name": "Brown",
+    "email": "sam.brown142@uni.edu",
+    "major": "CS",
+    "year": 3,
+    "gpa": 3.89
+  },
+  {
+    "student_id": 143,
+    "first_name": "Jordan",
+    "last_name": "Smith",
+    "email": "jordan.smith143@uni.edu",
+    "major": "CS",
+    "year": 4,
+    "gpa": 3.07
+  },
+  {
+    "student_id": 144,
+    "first_name": "Casey",
+    "last_name": "Smith",
+    "email": "casey.smith144@uni.edu",
+    "major": "ECON",
+    "year": 1,
+    "gpa": 3.14
+  },
+  {
+    "student_id": 145,
+    "first_name": "Jamie",
+    "last_name": "Smith",
+    "email": "jamie.smith145@uni.edu",
+    "major": "MATH",
+    "year": 4,
+    "gpa": 3.48
+  },
+  {
+    "student_id": 146,
+    "first_name": "Casey",
+    "last_name": "Clark",
+    "email": "casey.clark146@uni.edu",
+    "major": "ENG",
+    "year": 2,
+    "gpa": 2.96
+  },
+  {
+    "student_id": 147,
+    "first_name": "Sam",
+    "last_name": "Brown",
+    "email": "sam.brown147@uni.edu",
+    "major": "CS",
+    "year": 3,
+    "gpa": 3.61
+  },
+  {
+    "student_id": 148,
+    "first_name": "Morgan",
+    "last_name": "Lee",
+    "email": "morgan.lee148@uni.edu",
+    "major": "ECON",
+    "year": 1,
+    "gpa": 2.78
+  },
+  {
+    "student_id": 149,
+    "first_name": "Morgan",
+    "last_name": "Smith",
+    "email": "morgan.smith149@uni.edu",
+    "major": "BIO",
+    "year": 2,
+    "gpa": 2.35
+  },
+  {
+    "student_id": 150,
+    "first_name": "Sam",
+    "last_name": "Wilson",
+    "email": "sam.wilson150@uni.edu",
+    "major": "CS",
+    "year": 3,
+    "gpa": 3.67
+  },
+  {
+    "student_id": 151,
+    "first_name": "Avery",
+    "last_name": "Johnson",
+    "email": "avery.johnson151@uni.edu",
+    "major": "MATH",
+    "year": 2,
+    "gpa": 3.19
+  },
+  {
+    "student_id": 152,
+    "first_name": "Taylor",
+    "last_name": "Wilson",
+    "email": "taylor.wilson152@uni.edu",
+    "major": "ENG",
+    "year": 3,
+    "gpa": 2.33
+  },
+  {
+    "student_id": 153,
+    "first_name": "Drew",
+    "last_name": "Davis",
+    "email": "drew.davis153@uni.edu",
+    "major": "ENG",
+    "year": 3,
+    "gpa": 2.02
+  },
+  {
+    "student_id": 154,
+    "first_name": "Alex",
+    "last_name": "Brown",
+    "email": "alex.brown154@uni.edu",
+    "major": "BIO",
+    "year": 2,
+    "gpa": 2.32
+  },
+  {
+    "student_id": 155,
+    "first_name": "Casey",
+    "last_name": "Moore",
+    "email": "casey.moore155@uni.edu",
+    "major": "ECON",
+    "year": 3,
+    "gpa": 2.29
+  },
+  {
+    "student_id": 156,
+    "first_name": "Jamie",
+    "last_name": "Moore",
+    "email": "jamie.moore156@uni.edu",
+    "major": "BIO",
+    "year": 4,
+    "gpa": 2.25
+  },
+  {
+    "student_id": 157,
+    "first_name": "Jordan",
+    "last_name": "Johnson",
+    "email": "jordan.johnson157@uni.edu",
+    "major": "BIO",
+    "year": 1,
+    "gpa": 2.33
+  },
+  {
+    "student_id": 158,
+    "first_name": "Taylor",
+    "last_name": "Johnson",
+    "email": "taylor.johnson158@uni.edu",
+    "major": "MATH",
+    "year": 3,
+    "gpa": 2.08
+  },
+  {
+    "student_id": 159,
+    "first_name": "Jamie",
+    "last_name": "Clark",
+    "email": "jamie.clark159@uni.edu",
+    "major": "ECON",
+    "year": 4,
+    "gpa": 2.29
+  },
+  {
+    "student_id": 160,
+    "first_name": "Riley",
+    "last_name": "Lee",
+    "email": "riley.lee160@uni.edu",
+    "major": "ENG",
+    "year": 2,
+    "gpa": 3.38
+  },
+  {
+    "student_id": 161,
+    "first_name": "Jordan",
+    "last_name": "Brown",
+    "email": "jordan.brown161@uni.edu",
+    "major": "CS",
+    "year": 2,
+    "gpa": 2.03
+  },
+  {
+    "student_id": 162,
+    "first_name": "Taylor",
+    "last_name": "Hall",
+    "email": "taylor.hall162@uni.edu",
+    "major": "BIO",
+    "year": 2,
+    "gpa": 2.79
+  },
+  {
+    "student_id": 163,
+    "first_name": "Jamie",
+    "last_name": "Smith",
+    "email": "jamie.smith163@uni.edu",
+    "major": "CS",
+    "year": 1,
+    "gpa": 3.44
+  },
+  {
+    "student_id": 164,
+    "first_name": "Avery",
+    "last_name": "Moore",
+    "email": "avery.moore164@uni.edu",
+    "major": "CS",
+    "year": 2,
+    "gpa": 3.28
+  },
+  {
+    "student_id": 165,
+    "first_name": "Drew",
+    "last_name": "Johnson",
+    "email": "drew.johnson165@uni.edu",
+    "major": "MATH",
+    "year": 1,
+    "gpa": 3.22
+  },
+  {
+    "student_id": 166,
+    "first_name": "Taylor",
+    "last_name": "Lee",
+    "email": "taylor.lee166@uni.edu",
+    "major": "ECON",
+    "year": 4,
+    "gpa": 3.94
+  },
+  {
+    "student_id": 167,
+    "first_name": "Drew",
+    "last_name": "Lee",
+    "email": "drew.lee167@uni.edu",
+    "major": "ENG",
+    "year": 2,
+    "gpa": 3.93
+  },
+  {
+    "student_id": 168,
+    "first_name": "Jamie",
+    "last_name": "Brown",
+    "email": "jamie.brown168@uni.edu",
+    "major": "ECON",
+    "year": 3,
+    "gpa": 2.32
+  },
+  {
+    "student_id": 169,
+    "first_name": "Sam",
+    "last_name": "Davis",
+    "email": "sam.davis169@uni.edu",
+    "major": "ECON",
+    "year": 2,
+    "gpa": 3.33
+  },
+  {
+    "student_id": 170,
+    "first_name": "Jordan",
+    "last_name": "Davis",
+    "email": "jordan.davis170@uni.edu",
+    "major": "CS",
+    "year": 3,
+    "gpa": 3.71
+  },
+  {
+    "student_id": 171,
+    "first_name": "Morgan",
+    "last_name": "Smith",
+    "email": "morgan.smith171@uni.edu",
+    "major": "BIO",
+    "year": 3,
+    "gpa": 2.18
+  },
+  {
+    "student_id": 172,
+    "first_name": "Morgan",
+    "last_name": "Clark",
+    "email": "morgan.clark172@uni.edu",
+    "major": "ENG",
+    "year": 3,
+    "gpa": 2.26
+  },
+  {
+    "student_id": 173,
+    "first_name": "Jamie",
+    "last_name": "Moore",
+    "email": "jamie.moore173@uni.edu",
+    "major": "CS",
+    "year": 3,
+    "gpa": 3.89
+  },
+  {
+    "student_id": 174,
+    "first_name": "Casey",
+    "last_name": "Lee",
+    "email": "casey.lee174@uni.edu",
+    "major": "BIO",
+    "year": 3,
+    "gpa": 2.59
+  },
+  {
+    "student_id": 175,
+    "first_name": "Alex",
+    "last_name": "Brown",
+    "email": "alex.brown175@uni.edu",
+    "major": "BIO",
+    "year": 2,
+    "gpa": 2.37
+  },
+  {
+    "student_id": 176,
+    "first_name": "Taylor",
+    "last_name": "Wilson",
+    "email": "taylor.wilson176@uni.edu",
+    "major": "ENG",
+    "year": 3,
+    "gpa": 3.6
+  },
+  {
+    "student_id": 177,
+    "first_name": "Riley",
+    "last_name": "Smith",
+    "email": "riley.smith177@uni.edu",
+    "major": "ECON",
+    "year": 2,
+    "gpa": 3.25
+  },
+  {
+    "student_id": 178,
+    "first_name": "Taylor",
+    "last_name": "Moore",
+    "email": "taylor.moore178@uni.edu",
+    "major": "ENG",
+    "year": 3,
+    "gpa": 2.27
+  },
+  {
+    "student_id": 179,
+    "first_name": "Jamie",
+    "last_name": "Smith",
+    "email": "jamie.smith179@uni.edu",
+    "major": "BIO",
+    "year": 1,
+    "gpa": 3.31
+  },
+  {
+    "student_id": 180,
+    "first_name": "Sam",
+    "last_name": "Smith",
+    "email": "sam.smith180@uni.edu",
+    "major": "MATH",
+    "year": 2,
+    "gpa": 3.88
+  },
+  {
+    "student_id": 181,
+    "first_name": "Sam",
+    "last_name": "Wilson",
+    "email": "sam.wilson181@uni.edu",
+    "major": "ENG",
+    "year": 2,
+    "gpa": 2.06
+  },
+  {
+    "student_id": 182,
+    "first_name": "Alex",
+    "last_name": "Lee",
+    "email": "alex.lee182@uni.edu",
+    "major": "MATH",
+    "year": 3,
+    "gpa": 3.25
+  },
+  {
+    "student_id": 183,
+    "first_name": "Alex",
+    "last_name": "Hall",
+    "email": "alex.hall183@uni.edu",
+    "major": "BIO",
+    "year": 1,
+    "gpa": 3.61
+  },
+  {
+    "student_id": 184,
+    "first_name": "Alex",
+    "last_name": "Davis",
+    "email": "alex.davis184@uni.edu",
+    "major": "ENG",
+    "year": 4,
+    "gpa": 2.91
+  },
+  {
+    "student_id": 185,
+    "first_name": "Riley",
+    "last_name": "Brown",
+    "email": "riley.brown185@uni.edu",
+    "major": "ENG",
+    "year": 1,
+    "gpa": 3.74
+  },
+  {
+    "student_id": 186,
+    "first_name": "Jordan",
+    "last_name": "Wilson",
+    "email": "jordan.wilson186@uni.edu",
+    "major": "ENG",
+    "year": 2,
+    "gpa": 2.03
+  },
+  {
+    "student_id": 187,
+    "first_name": "Alex",
+    "last_name": "Miller",
+    "email": "alex.miller187@uni.edu",
+    "major": "ENG",
+    "year": 2,
+    "gpa": 2.13
+  },
+  {
+    "student_id": 188,
+    "first_name": "Taylor",
+    "last_name": "Smith",
+    "email": "taylor.smith188@uni.edu",
+    "major": "ECON",
+    "year": 3,
+    "gpa": 2.64
+  },
+  {
+    "student_id": 189,
+    "first_name": "Casey",
+    "last_name": "Hall",
+    "email": "casey.hall189@uni.edu",
+    "major": "ECON",
+    "year": 3,
+    "gpa": 3.86
+  },
+  {
+    "student_id": 190,
+    "first_name": "Avery",
+    "last_name": "Davis",
+    "email": "avery.davis190@uni.edu",
+    "major": "ENG",
+    "year": 4,
+    "gpa": 3.13
+  },
+  {
+    "student_id": 191,
+    "first_name": "Sam",
+    "last_name": "Brown",
+    "email": "sam.brown191@uni.edu",
+    "major": "MATH",
+    "year": 3,
+    "gpa": 3.5
+  },
+  {
+    "student_id": 192,
+    "first_name": "Jamie",
+    "last_name": "Davis",
+    "email": "jamie.davis192@uni.edu",
+    "major": "ENG",
+    "year": 3,
+    "gpa": 3.79
+  },
+  {
+    "student_id": 193,
+    "first_name": "Sam",
+    "last_name": "Smith",
+    "email": "sam.smith193@uni.edu",
+    "major": "CS",
+    "year": 1,
+    "gpa": 2.57
+  },
+  {
+    "student_id": 194,
+    "first_name": "Alex",
+    "last_name": "Davis",
+    "email": "alex.davis194@uni.edu",
+    "major": "ENG",
+    "year": 2,
+    "gpa": 3.57
+  },
+  {
+    "student_id": 195,
+    "first_name": "Jordan",
+    "last_name": "Hall",
+    "email": "jordan.hall195@uni.edu",
+    "major": "ECON",
+    "year": 3,
+    "gpa": 2.73
+  },
+  {
+    "student_id": 196,
+    "first_name": "Alex",
+    "last_name": "Moore",
+    "email": "alex.moore196@uni.edu",
+    "major": "MATH",
+    "year": 4,
+    "gpa": 2.23
+  },
+  {
+    "student_id": 197,
+    "first_name": "Drew",
+    "last_name": "Brown",
+    "email": "drew.brown197@uni.edu",
+    "major": "ECON",
+    "year": 3,
+    "gpa": 3.23
+  },
+  {
+    "student_id": 198,
+    "first_name": "Riley",
+    "last_name": "Brown",
+    "email": "riley.brown198@uni.edu",
+    "major": "ENG",
+    "year": 3,
+    "gpa": 2.62
+  },
+  {
+    "student_id": 199,
+    "first_name": "Avery",
+    "last_name": "Johnson",
+    "email": "avery.johnson199@uni.edu",
+    "major": "CS",
+    "year": 4,
+    "gpa": 3.24
+  },
+  {
+    "student_id": 200,
+    "first_name": "Sam",
+    "last_name": "Brown",
+    "email": "sam.brown200@uni.edu",
+    "major": "MATH",
+    "year": 3,
+    "gpa": 2.81
+  },
+  {
+    "student_id": 201,
+    "first_name": "Jamie",
+    "last_name": "Moore",
+    "email": "jamie.moore201@uni.edu",
+    "major": "BIO",
+    "year": 1,
+    "gpa": 2.01
+  },
+  {
+    "student_id": 202,
+    "first_name": "Casey",
+    "last_name": "Lee",
+    "email": "casey.lee202@uni.edu",
+    "major": "BIO",
+    "year": 3,
+    "gpa": 3.25
+  },
+  {
+    "student_id": 203,
+    "first_name": "Avery",
+    "last_name": "Wilson",
+    "email": "avery.wilson203@uni.edu",
+    "major": "ENG",
+    "year": 4,
+    "gpa": 3.55
+  },
+  {
+    "student_id": 204,
+    "first_name": "Drew",
+    "last_name": "Davis",
+    "email": "drew.davis204@uni.edu",
+    "major": "MATH",
+    "year": 2,
+    "gpa": 3.28
+  },
+  {
+    "student_id": 205,
+    "first_name": "Alex",
+    "last_name": "Hall",
+    "email": "alex.hall205@uni.edu",
+    "major": "ECON",
+    "year": 2,
+    "gpa": 2.97
+  },
+  {
+    "student_id": 206,
+    "first_name": "Riley",
+    "last_name": "Wilson",
+    "email": "riley.wilson206@uni.edu",
+    "major": "CS",
+    "year": 4,
+    "gpa": 3.29
+  },
+  {
+    "student_id": 207,
+    "first_name": "Alex",
+    "last_name": "Johnson",
+    "email": "alex.johnson207@uni.edu",
+    "major": "BIO",
+    "year": 3,
+    "gpa": 2.81
+  },
+  {
+    "student_id": 208,
+    "first_name": "Jordan",
+    "last_name": "Johnson",
+    "email": "jordan.johnson208@uni.edu",
+    "major": "MATH",
+    "year": 2,
+    "gpa": 3.03
+  },
+  {
+    "student_id": 209,
+    "first_name": "Alex",
+    "last_name": "Wilson",
+    "email": "alex.wilson209@uni.edu",
+    "major": "ENG",
+    "year": 3,
+    "gpa": 2.64
+  },
+  {
+    "student_id": 210,
+    "first_name": "Taylor",
+    "last_name": "Miller",
+    "email": "taylor.miller210@uni.edu",
+    "major": "ENG",
+    "year": 3,
+    "gpa": 3.81
+  },
+  {
+    "student_id": 211,
+    "first_name": "Alex",
+    "last_name": "Clark",
+    "email": "alex.clark211@uni.edu",
+    "major": "BIO",
+    "year": 2,
+    "gpa": 3.84
+  },
+  {
+    "student_id": 212,
+    "first_name": "Avery",
+    "last_name": "Smith",
+    "email": "avery.smith212@uni.edu",
+    "major": "BIO",
+    "year": 2,
+    "gpa": 3.4
+  },
+  {
+    "student_id": 213,
+    "first_name": "Alex",
+    "last_name": "Johnson",
+    "email": "alex.johnson213@uni.edu",
+    "major": "BIO",
+    "year": 4,
+    "gpa": 3.76
+  },
+  {
+    "student_id": 214,
+    "first_name": "Casey",
+    "last_name": "Miller",
+    "email": "casey.miller214@uni.edu",
+    "major": "CS",
+    "year": 4,
+    "gpa": 2.6
+  },
+  {
+    "student_id": 215,
+    "first_name": "Sam",
+    "last_name": "Hall",
+    "email": "sam.hall215@uni.edu",
+    "major": "CS",
+    "year": 4,
+    "gpa": 3.23
+  },
+  {
+    "student_id": 216,
+    "first_name": "Avery",
+    "last_name": "Smith",
+    "email": "avery.smith216@uni.edu",
+    "major": "ENG",
+    "year": 1,
+    "gpa": 2.7
+  },
+  {
+    "student_id": 217,
+    "first_name": "Riley",
+    "last_name": "Moore",
+    "email": "riley.moore217@uni.edu",
+    "major": "ECON",
+    "year": 4,
+    "gpa": 3.04
+  },
+  {
+    "student_id": 218,
+    "first_name": "Taylor",
+    "last_name": "Hall",
+    "email": "taylor.hall218@uni.edu",
+    "major": "CS",
+    "year": 1,
+    "gpa": 3.06
+  },
+  {
+    "student_id": 219,
+    "first_name": "Morgan",
+    "last_name": "Davis",
+    "email": "morgan.davis219@uni.edu",
+    "major": "CS",
+    "year": 4,
+    "gpa": 2.11
+  },
+  {
+    "student_id": 220,
+    "first_name": "Sam",
+    "last_name": "Moore",
+    "email": "sam.moore220@uni.edu",
+    "major": "ECON",
+    "year": 2,
+    "gpa": 3.26
+  },
+  {
+    "student_id": 221,
+    "first_name": "Alex",
+    "last_name": "Johnson",
+    "email": "alex.johnson221@uni.edu",
+    "major": "CS",
+    "year": 1,
+    "gpa": 2.12
+  },
+  {
+    "student_id": 222,
+    "first_name": "Sam",
+    "last_name": "Johnson",
+    "email": "sam.johnson222@uni.edu",
+    "major": "MATH",
+    "year": 2,
+    "gpa": 2.44
+  },
+  {
+    "student_id": 223,
+    "first_name": "Jordan",
+    "last_name": "Brown",
+    "email": "jordan.brown223@uni.edu",
+    "major": "BIO",
+    "year": 4,
+    "gpa": 3.75
+  },
+  {
+    "student_id": 224,
+    "first_name": "Avery",
+    "last_name": "Miller",
+    "email": "avery.miller224@uni.edu",
+    "major": "BIO",
+    "year": 4,
+    "gpa": 3.43
+  },
+  {
+    "student_id": 225,
+    "first_name": "Avery",
+    "last_name": "Lee",
+    "email": "avery.lee225@uni.edu",
+    "major": "ENG",
+    "year": 4,
+    "gpa": 3.14
+  },
+  {
+    "student_id": 226,
+    "first_name": "Sam",
+    "last_name": "Miller",
+    "email": "sam.miller226@uni.edu",
+    "major": "ECON",
+    "year": 2,
+    "gpa": 3.64
+  },
+  {
+    "student_id": 227,
+    "first_name": "Avery",
+    "last_name": "Brown",
+    "email": "avery.brown227@uni.edu",
+    "major": "ENG",
+    "year": 3,
+    "gpa": 3.1
+  },
+  {
+    "student_id": 228,
+    "first_name": "Morgan",
+    "last_name": "Hall",
+    "email": "morgan.hall228@uni.edu",
+    "major": "CS",
+    "year": 3,
+    "gpa": 2.55
+  },
+  {
+    "student_id": 229,
+    "first_name": "Avery",
+    "last_name": "Davis",
+    "email": "avery.davis229@uni.edu",
+    "major": "ECON",
+    "year": 1,
+    "gpa": 2.86
+  },
+  {
+    "student_id": 230,
+    "first_name": "Casey",
+    "last_name": "Johnson",
+    "email": "casey.johnson230@uni.edu",
+    "major": "BIO",
+    "year": 3,
+    "gpa": 2.67
+  },
+  {
+    "student_id": 231,
+    "first_name": "Jamie",
+    "last_name": "Hall",
+    "email": "jamie.hall231@uni.edu",
+    "major": "CS",
+    "year": 3,
+    "gpa": 2.68
+  },
+  {
+    "student_id": 232,
+    "first_name": "Taylor",
+    "last_name": "Davis",
+    "email": "taylor.davis232@uni.edu",
+    "major": "CS",
+    "year": 4,
+    "gpa": 2.17
+  },
+  {
+    "student_id": 233,
+    "first_name": "Taylor",
+    "last_name": "Clark",
+    "email": "taylor.clark233@uni.edu",
+    "major": "ENG",
+    "year": 3,
+    "gpa": 2.28
+  },
+  {
+    "student_id": 234,
+    "first_name": "Riley",
+    "last_name": "Clark",
+    "email": "riley.clark234@uni.edu",
+    "major": "CS",
+    "year": 4,
+    "gpa": 3.06
+  },
+  {
+    "student_id": 235,
+    "first_name": "Riley",
+    "last_name": "Moore",
+    "email": "riley.moore235@uni.edu",
+    "major": "ECON",
+    "year": 3,
+    "gpa": 3.43
+  },
+  {
+    "student_id": 236,
+    "first_name": "Morgan",
+    "last_name": "Wilson",
+    "email": "morgan.wilson236@uni.edu",
+    "major": "ECON",
+    "year": 1,
+    "gpa": 3.83
+  },
+  {
+    "student_id": 237,
+    "first_name": "Sam",
+    "last_name": "Clark",
+    "email": "sam.clark237@uni.edu",
+    "major": "MATH",
+    "year": 3,
+    "gpa": 2.51
+  },
+  {
+    "student_id": 238,
+    "first_name": "Avery",
+    "last_name": "Moore",
+    "email": "avery.moore238@uni.edu",
+    "major": "ECON",
+    "year": 1,
+    "gpa": 2.42
+  },
+  {
+    "student_id": 239,
+    "first_name": "Avery",
+    "last_name": "Miller",
+    "email": "avery.miller239@uni.edu",
+    "major": "BIO",
+    "year": 4,
+    "gpa": 2.23
+  },
+  {
+    "student_id": 240,
+    "first_name": "Drew",
+    "last_name": "Brown",
+    "email": "drew.brown240@uni.edu",
+    "major": "MATH",
+    "year": 4,
+    "gpa": 3.66
+  },
+  {
+    "student_id": 241,
+    "first_name": "Alex",
+    "last_name": "Clark",
+    "email": "alex.clark241@uni.edu",
+    "major": "ECON",
+    "year": 4,
+    "gpa": 3.32
+  },
+  {
+    "student_id": 242,
+    "first_name": "Drew",
+    "last_name": "Moore",
+    "email": "drew.moore242@uni.edu",
+    "major": "ECON",
+    "year": 3,
+    "gpa": 3.09
+  },
+  {
+    "student_id": 243,
+    "first_name": "Jordan",
+    "last_name": "Brown",
+    "email": "jordan.brown243@uni.edu",
+    "major": "CS",
+    "year": 2,
+    "gpa": 2.86
+  },
+  {
+    "student_id": 244,
+    "first_name": "Morgan",
+    "last_name": "Wilson",
+    "email": "morgan.wilson244@uni.edu",
+    "major": "ENG",
+    "year": 4,
+    "gpa": 3.49
+  },
+  {
+    "student_id": 245,
+    "first_name": "Sam",
+    "last_name": "Davis",
+    "email": "sam.davis245@uni.edu",
+    "major": "CS",
+    "year": 1,
+    "gpa": 3.51
+  },
+  {
+    "student_id": 246,
+    "first_name": "Sam",
+    "last_name": "Wilson",
+    "email": "sam.wilson246@uni.edu",
+    "major": "ENG",
+    "year": 4,
+    "gpa": 2.52
+  },
+  {
+    "student_id": 247,
+    "first_name": "Casey",
+    "last_name": "Lee",
+    "email": "casey.lee247@uni.edu",
+    "major": "BIO",
+    "year": 2,
+    "gpa": 3.1
+  },
+  {
+    "student_id": 248,
+    "first_name": "Avery",
+    "last_name": "Clark",
+    "email": "avery.clark248@uni.edu",
+    "major": "BIO",
+    "year": 4,
+    "gpa": 2.9
+  },
+  {
+    "student_id": 249,
+    "first_name": "Jordan",
+    "last_name": "Johnson",
+    "email": "jordan.johnson249@uni.edu",
+    "major": "BIO",
+    "year": 2,
+    "gpa": 2.88
+  },
+  {
+    "student_id": 250,
+    "first_name": "Riley",
+    "last_name": "Lee",
+    "email": "riley.lee250@uni.edu",
+    "major": "ENG",
+    "year": 2,
+    "gpa": 2.9
+  },
+  {
+    "student_id": 251,
+    "first_name": "Jordan",
+    "last_name": "Hall",
+    "email": "jordan.hall251@uni.edu",
+    "major": "ECON",
+    "year": 1,
+    "gpa": 3.31
+  },
+  {
+    "student_id": 252,
+    "first_name": "Avery",
+    "last_name": "Smith",
+    "email": "avery.smith252@uni.edu",
+    "major": "ECON",
+    "year": 4,
+    "gpa": 2.84
+  },
+  {
+    "student_id": 253,
+    "first_name": "Sam",
+    "last_name": "Clark",
+    "email": "sam.clark253@uni.edu",
+    "major": "ECON",
+    "year": 2,
+    "gpa": 2.37
+  },
+  {
+    "student_id": 254,
+    "first_name": "Alex",
+    "last_name": "Miller",
+    "email": "alex.miller254@uni.edu",
+    "major": "MATH",
+    "year": 3,
+    "gpa": 3.82
+  },
+  {
+    "student_id": 255,
+    "first_name": "Riley",
+    "last_name": "Davis",
+    "email": "riley.davis255@uni.edu",
+    "major": "BIO",
+    "year": 4,
+    "gpa": 2.38
+  },
+  {
+    "student_id": 256,
+    "first_name": "Avery",
+    "last_name": "Moore",
+    "email": "avery.moore256@uni.edu",
+    "major": "ENG",
+    "year": 3,
+    "gpa": 3.0
+  },
+  {
+    "student_id": 257,
+    "first_name": "Jamie",
+    "last_name": "Moore",
+    "email": "jamie.moore257@uni.edu",
+    "major": "BIO",
+    "year": 2,
+    "gpa": 3.34
+  },
+  {
+    "student_id": 258,
+    "first_name": "Alex",
+    "last_name": "Moore",
+    "email": "alex.moore258@uni.edu",
+    "major": "ENG",
+    "year": 1,
+    "gpa": 3.22
+  },
+  {
+    "student_id": 259,
+    "first_name": "Drew",
+    "last_name": "Brown",
+    "email": "drew.brown259@uni.edu",
+    "major": "MATH",
+    "year": 3,
+    "gpa": 3.69
+  },
+  {
+    "student_id": 260,
+    "first_name": "Drew",
+    "last_name": "Johnson",
+    "email": "drew.johnson260@uni.edu",
+    "major": "ECON",
+    "year": 2,
+    "gpa": 3.39
+  },
+  {
+    "student_id": 261,
+    "first_name": "Casey",
+    "last_name": "Hall",
+    "email": "casey.hall261@uni.edu",
+    "major": "BIO",
+    "year": 2,
+    "gpa": 3.14
+  },
+  {
+    "student_id": 262,
+    "first_name": "Morgan",
+    "last_name": "Lee",
+    "email": "morgan.lee262@uni.edu",
+    "major": "MATH",
+    "year": 2,
+    "gpa": 2.09
+  },
+  {
+    "student_id": 263,
+    "first_name": "Jordan",
+    "last_name": "Davis",
+    "email": "jordan.davis263@uni.edu",
+    "major": "ECON",
+    "year": 4,
+    "gpa": 3.8
+  },
+  {
+    "student_id": 264,
+    "first_name": "Avery",
+    "last_name": "Wilson",
+    "email": "avery.wilson264@uni.edu",
+    "major": "ENG",
+    "year": 4,
+    "gpa": 2.34
+  },
+  {
+    "student_id": 265,
+    "first_name": "Drew",
+    "last_name": "Davis",
+    "email": "drew.davis265@uni.edu",
+    "major": "CS",
+    "year": 3,
+    "gpa": 2.46
+  },
+  {
+    "student_id": 266,
+    "first_name": "Casey",
+    "last_name": "Johnson",
+    "email": "casey.johnson266@uni.edu",
+    "major": "MATH",
+    "year": 4,
+    "gpa": 2.72
+  },
+  {
+    "student_id": 267,
+    "first_name": "Jordan",
+    "last_name": "Moore",
+    "email": "jordan.moore267@uni.edu",
+    "major": "ECON",
+    "year": 2,
+    "gpa": 3.73
+  },
+  {
+    "student_id": 268,
+    "first_name": "Riley",
+    "last_name": "Moore",
+    "email": "riley.moore268@uni.edu",
+    "major": "ENG",
+    "year": 2,
+    "gpa": 3.05
+  },
+  {
+    "student_id": 269,
+    "first_name": "Taylor",
+    "last_name": "Moore",
+    "email": "taylor.moore269@uni.edu",
+    "major": "ENG",
+    "year": 1,
+    "gpa": 3.04
+  },
+  {
+    "student_id": 270,
+    "first_name": "Sam",
+    "last_name": "Brown",
+    "email": "sam.brown270@uni.edu",
+    "major": "ECON",
+    "year": 2,
+    "gpa": 2.79
+  },
+  {
+    "student_id": 271,
+    "first_name": "Avery",
+    "last_name": "Lee",
+    "email": "avery.lee271@uni.edu",
+    "major": "CS",
+    "year": 1,
+    "gpa": 2.15
+  },
+  {
+    "student_id": 272,
+    "first_name": "Morgan",
+    "last_name": "Wilson",
+    "email": "morgan.wilson272@uni.edu",
+    "major": "CS",
+    "year": 2,
+    "gpa": 3.6
+  },
+  {
+    "student_id": 273,
+    "first_name": "Morgan",
+    "last_name": "Moore",
+    "email": "morgan.moore273@uni.edu",
+    "major": "ECON",
+    "year": 4,
+    "gpa": 3.05
+  },
+  {
+    "student_id": 274,
+    "first_name": "Drew",
+    "last_name": "Davis",
+    "email": "drew.davis274@uni.edu",
+    "major": "BIO",
+    "year": 3,
+    "gpa": 3.91
+  },
+  {
+    "student_id": 275,
+    "first_name": "Jordan",
+    "last_name": "Davis",
+    "email": "jordan.davis275@uni.edu",
+    "major": "CS",
+    "year": 4,
+    "gpa": 3.48
+  },
+  {
+    "student_id": 276,
+    "first_name": "Taylor",
+    "last_name": "Lee",
+    "email": "taylor.lee276@uni.edu",
+    "major": "ECON",
+    "year": 2,
+    "gpa": 2.98
+  },
+  {
+    "student_id": 277,
+    "first_name": "Jordan",
+    "last_name": "Wilson",
+    "email": "jordan.wilson277@uni.edu",
+    "major": "CS",
+    "year": 2,
+    "gpa": 3.86
+  },
+  {
+    "student_id": 278,
+    "first_name": "Taylor",
+    "last_name": "Smith",
+    "email": "taylor.smith278@uni.edu",
+    "major": "BIO",
+    "year": 4,
+    "gpa": 2.83
+  },
+  {
+    "student_id": 279,
+    "first_name": "Jamie",
+    "last_name": "Clark",
+    "email": "jamie.clark279@uni.edu",
+    "major": "ENG",
+    "year": 1,
+    "gpa": 2.89
+  },
+  {
+    "student_id": 280,
+    "first_name": "Casey",
+    "last_name": "Moore",
+    "email": "casey.moore280@uni.edu",
+    "major": "ENG",
+    "year": 1,
+    "gpa": 3.39
+  },
+  {
+    "student_id": 281,
+    "first_name": "Alex",
+    "last_name": "Hall",
+    "email": "alex.hall281@uni.edu",
+    "major": "ECON",
+    "year": 3,
+    "gpa": 2.84
+  },
+  {
+    "student_id": 282,
+    "first_name": "Morgan",
+    "last_name": "Moore",
+    "email": "morgan.moore282@uni.edu",
+    "major": "ECON",
+    "year": 1,
+    "gpa": 2.46
+  },
+  {
+    "student_id": 283,
+    "first_name": "Casey",
+    "last_name": "Brown",
+    "email": "casey.brown283@uni.edu",
+    "major": "MATH",
+    "year": 1,
+    "gpa": 3.89
+  },
+  {
+    "student_id": 284,
+    "first_name": "Alex",
+    "last_name": "Wilson",
+    "email": "alex.wilson284@uni.edu",
+    "major": "MATH",
+    "year": 4,
+    "gpa": 2.84
+  },
+  {
+    "student_id": 285,
+    "first_name": "Sam",
+    "last_name": "Davis",
+    "email": "sam.davis285@uni.edu",
+    "major": "ENG",
+    "year": 1,
+    "gpa": 3.91
+  },
+  {
+    "student_id": 286,
+    "first_name": "Avery",
+    "last_name": "Wilson",
+    "email": "avery.wilson286@uni.edu",
+    "major": "ECON",
+    "year": 4,
+    "gpa": 3.34
+  },
+  {
+    "student_id": 287,
+    "first_name": "Avery",
+    "last_name": "Johnson",
+    "email": "avery.johnson287@uni.edu",
+    "major": "BIO",
+    "year": 2,
+    "gpa": 2.1
+  },
+  {
+    "student_id": 288,
+    "first_name": "Jordan",
+    "last_name": "Lee",
+    "email": "jordan.lee288@uni.edu",
+    "major": "ENG",
+    "year": 4,
+    "gpa": 3.74
+  },
+  {
+    "student_id": 289,
+    "first_name": "Jordan",
+    "last_name": "Wilson",
+    "email": "jordan.wilson289@uni.edu",
+    "major": "CS",
+    "year": 4,
+    "gpa": 3.26
+  },
+  {
+    "student_id": 290,
+    "first_name": "Jordan",
+    "last_name": "Moore",
+    "email": "jordan.moore290@uni.edu",
+    "major": "ENG",
+    "year": 2,
+    "gpa": 3.83
+  },
+  {
+    "student_id": 291,
+    "first_name": "Taylor",
+    "last_name": "Miller",
+    "email": "taylor.miller291@uni.edu",
+    "major": "BIO",
+    "year": 2,
+    "gpa": 2.1
+  },
+  {
+    "student_id": 292,
+    "first_name": "Taylor",
+    "last_name": "Lee",
+    "email": "taylor.lee292@uni.edu",
+    "major": "ECON",
+    "year": 3,
+    "gpa": 2.95
+  },
+  {
+    "student_id": 293,
+    "first_name": "Jordan",
+    "last_name": "Brown",
+    "email": "jordan.brown293@uni.edu",
+    "major": "ECON",
+    "year": 3,
+    "gpa": 2.53
+  },
+  {
+    "student_id": 294,
+    "first_name": "Jordan",
+    "last_name": "Davis",
+    "email": "jordan.davis294@uni.edu",
+    "major": "ECON",
+    "year": 3,
+    "gpa": 2.26
+  },
+  {
+    "student_id": 295,
+    "first_name": "Jamie",
+    "last_name": "Davis",
+    "email": "jamie.davis295@uni.edu",
+    "major": "CS",
+    "year": 2,
+    "gpa": 3.19
+  },
+  {
+    "student_id": 296,
+    "first_name": "Morgan",
+    "last_name": "Clark",
+    "email": "morgan.clark296@uni.edu",
+    "major": "CS",
+    "year": 3,
+    "gpa": 2.18
+  },
+  {
+    "student_id": 297,
+    "first_name": "Casey",
+    "last_name": "Smith",
+    "email": "casey.smith297@uni.edu",
+    "major": "CS",
+    "year": 3,
+    "gpa": 3.2
+  },
+  {
+    "student_id": 298,
+    "first_name": "Avery",
+    "last_name": "Moore",
+    "email": "avery.moore298@uni.edu",
+    "major": "ECON",
+    "year": 1,
+    "gpa": 2.84
+  },
+  {
+    "student_id": 299,
+    "first_name": "Sam",
+    "last_name": "Moore",
+    "email": "sam.moore299@uni.edu",
+    "major": "CS",
+    "year": 1,
+    "gpa": 2.86
+  },
+  {
+    "student_id": 300,
+    "first_name": "Avery",
+    "last_name": "Brown",
+    "email": "avery.brown300@uni.edu",
+    "major": "MATH",
+    "year": 2,
+    "gpa": 2.32
+  },
+  {
+    "student_id": 301,
+    "first_name": "Sam",
+    "last_name": "Miller",
+    "email": "sam.miller301@uni.edu",
+    "major": "MATH",
+    "year": 2,
+    "gpa": 2.74
+  },
+  {
+    "student_id": 302,
+    "first_name": "Casey",
+    "last_name": "Clark",
+    "email": "casey.clark302@uni.edu",
+    "major": "ENG",
+    "year": 1,
+    "gpa": 3.16
+  },
+  {
+    "student_id": 303,
+    "first_name": "Avery",
+    "last_name": "Wilson",
+    "email": "avery.wilson303@uni.edu",
+    "major": "BIO",
+    "year": 1,
+    "gpa": 3.75
+  },
+  {
+    "student_id": 304,
+    "first_name": "Taylor",
+    "last_name": "Smith",
+    "email": "taylor.smith304@uni.edu",
+    "major": "MATH",
+    "year": 2,
+    "gpa": 2.55
+  },
+  {
+    "student_id": 305,
+    "first_name": "Alex",
+    "last_name": "Clark",
+    "email": "alex.clark305@uni.edu",
+    "major": "MATH",
+    "year": 3,
+    "gpa": 2.48
+  },
+  {
+    "student_id": 306,
+    "first_name": "Taylor",
+    "last_name": "Moore",
+    "email": "taylor.moore306@uni.edu",
+    "major": "ENG",
+    "year": 4,
+    "gpa": 2.61
+  },
+  {
+    "student_id": 307,
+    "first_name": "Casey",
+    "last_name": "Wilson",
+    "email": "casey.wilson307@uni.edu",
+    "major": "ENG",
+    "year": 1,
+    "gpa": 3.36
+  },
+  {
+    "student_id": 308,
+    "first_name": "Taylor",
+    "last_name": "Miller",
+    "email": "taylor.miller308@uni.edu",
+    "major": "ENG",
+    "year": 2,
+    "gpa": 3.32
+  },
+  {
+    "student_id": 309,
+    "first_name": "Jordan",
+    "last_name": "Miller",
+    "email": "jordan.miller309@uni.edu",
+    "major": "ECON",
+    "year": 4,
+    "gpa": 2.08
+  },
+  {
+    "student_id": 310,
+    "first_name": "Riley",
+    "last_name": "Davis",
+    "email": "riley.davis310@uni.edu",
+    "major": "MATH",
+    "year": 2,
+    "gpa": 3.15
+  },
+  {
+    "student_id": 311,
+    "first_name": "Jamie",
+    "last_name": "Lee",
+    "email": "jamie.lee311@uni.edu",
+    "major": "CS",
+    "year": 1,
+    "gpa": 3.47
+  },
+  {
+    "student_id": 312,
+    "first_name": "Jamie",
+    "last_name": "Hall",
+    "email": "jamie.hall312@uni.edu",
+    "major": "ENG",
+    "year": 4,
+    "gpa": 3.38
+  },
+  {
+    "student_id": 313,
+    "first_name": "Taylor",
+    "last_name": "Johnson",
+    "email": "taylor.johnson313@uni.edu",
+    "major": "BIO",
+    "year": 4,
+    "gpa": 3.53
+  },
+  {
+    "student_id": 314,
+    "first_name": "Jordan",
+    "last_name": "Hall",
+    "email": "jordan.hall314@uni.edu",
+    "major": "CS",
+    "year": 4,
+    "gpa": 3.79
+  },
+  {
+    "student_id": 315,
+    "first_name": "Casey",
+    "last_name": "Lee",
+    "email": "casey.lee315@uni.edu",
+    "major": "CS",
+    "year": 2,
+    "gpa": 3.3
+  },
+  {
+    "student_id": 316,
+    "first_name": "Riley",
+    "last_name": "Lee",
+    "email": "riley.lee316@uni.edu",
+    "major": "ENG",
+    "year": 1,
+    "gpa": 3.45
+  },
+  {
+    "student_id": 317,
+    "first_name": "Jamie",
+    "last_name": "Hall",
+    "email": "jamie.hall317@uni.edu",
+    "major": "BIO",
+    "year": 3,
+    "gpa": 3.2
+  },
+  {
+    "student_id": 318,
+    "first_name": "Taylor",
+    "last_name": "Miller",
+    "email": "taylor.miller318@uni.edu",
+    "major": "MATH",
+    "year": 4,
+    "gpa": 2.73
+  },
+  {
+    "student_id": 319,
+    "first_name": "Casey",
+    "last_name": "Wilson",
+    "email": "casey.wilson319@uni.edu",
+    "major": "MATH",
+    "year": 2,
+    "gpa": 2.05
+  },
+  {
+    "student_id": 320,
+    "first_name": "Jamie",
+    "last_name": "Davis",
+    "email": "jamie.davis320@uni.edu",
+    "major": "CS",
+    "year": 3,
+    "gpa": 3.75
+  },
+  {
+    "student_id": 321,
+    "first_name": "Morgan",
+    "last_name": "Hall",
+    "email": "morgan.hall321@uni.edu",
+    "major": "MATH",
+    "year": 1,
+    "gpa": 3.96
+  },
+  {
+    "student_id": 322,
+    "first_name": "Alex",
+    "last_name": "Clark",
+    "email": "alex.clark322@uni.edu",
+    "major": "MATH",
+    "year": 1,
+    "gpa": 2.86
+  },
+  {
+    "student_id": 323,
+    "first_name": "Sam",
+    "last_name": "Miller",
+    "email": "sam.miller323@uni.edu",
+    "major": "CS",
+    "year": 4,
+    "gpa": 2.39
+  },
+  {
+    "student_id": 324,
+    "first_name": "Drew",
+    "last_name": "Clark",
+    "email": "drew.clark324@uni.edu",
+    "major": "BIO",
+    "year": 2,
+    "gpa": 2.16
+  },
+  {
+    "student_id": 325,
+    "first_name": "Avery",
+    "last_name": "Lee",
+    "email": "avery.lee325@uni.edu",
+    "major": "ENG",
+    "year": 1,
+    "gpa": 2.1
+  },
+  {
+    "student_id": 326,
+    "first_name": "Sam",
+    "last_name": "Moore",
+    "email": "sam.moore326@uni.edu",
+    "major": "ECON",
+    "year": 2,
+    "gpa": 3.56
+  },
+  {
+    "student_id": 327,
+    "first_name": "Avery",
+    "last_name": "Johnson",
+    "email": "avery.johnson327@uni.edu",
+    "major": "BIO",
+    "year": 2,
+    "gpa": 3.59
+  },
+  {
+    "student_id": 328,
+    "first_name": "Sam",
+    "last_name": "Hall",
+    "email": "sam.hall328@uni.edu",
+    "major": "MATH",
+    "year": 2,
+    "gpa": 2.28
+  },
+  {
+    "student_id": 329,
+    "first_name": "Casey",
+    "last_name": "Smith",
+    "email": "casey.smith329@uni.edu",
+    "major": "ENG",
+    "year": 4,
+    "gpa": 3.77
+  },
+  {
+    "student_id": 330,
+    "first_name": "Morgan",
+    "last_name": "Miller",
+    "email": "morgan.miller330@uni.edu",
+    "major": "BIO",
+    "year": 2,
+    "gpa": 3.52
+  },
+  {
+    "student_id": 331,
+    "first_name": "Sam",
+    "last_name": "Hall",
+    "email": "sam.hall331@uni.edu",
+    "major": "BIO",
+    "year": 4,
+    "gpa": 3.06
+  },
+  {
+    "student_id": 332,
+    "first_name": "Jordan",
+    "last_name": "Moore",
+    "email": "jordan.moore332@uni.edu",
+    "major": "MATH",
+    "year": 4,
+    "gpa": 2.83
+  },
+  {
+    "student_id": 333,
+    "first_name": "Casey",
+    "last_name": "Lee",
+    "email": "casey.lee333@uni.edu",
+    "major": "MATH",
+    "year": 2,
+    "gpa": 2.91
+  },
+  {
+    "student_id": 334,
+    "first_name": "Casey",
+    "last_name": "Johnson",
+    "email": "casey.johnson334@uni.edu",
+    "major": "MATH",
+    "year": 4,
+    "gpa": 3.91
+  },
+  {
+    "student_id": 335,
+    "first_name": "Taylor",
+    "last_name": "Wilson",
+    "email": "taylor.wilson335@uni.edu",
+    "major": "CS",
+    "year": 2,
+    "gpa": 3.99
+  },
+  {
+    "student_id": 336,
+    "first_name": "Casey",
+    "last_name": "Wilson",
+    "email": "casey.wilson336@uni.edu",
+    "major": "ECON",
+    "year": 1,
+    "gpa": 3.92
+  },
+  {
+    "student_id": 337,
+    "first_name": "Riley",
+    "last_name": "Johnson",
+    "email": "riley.johnson337@uni.edu",
+    "major": "CS",
+    "year": 1,
+    "gpa": 3.9
+  },
+  {
+    "student_id": 338,
+    "first_name": "Casey",
+    "last_name": "Hall",
+    "email": "casey.hall338@uni.edu",
+    "major": "MATH",
+    "year": 3,
+    "gpa": 2.83
+  },
+  {
+    "student_id": 339,
+    "first_name": "Jordan",
+    "last_name": "Clark",
+    "email": "jordan.clark339@uni.edu",
+    "major": "BIO",
+    "year": 2,
+    "gpa": 3.13
+  },
+  {
+    "student_id": 340,
+    "first_name": "Drew",
+    "last_name": "Miller",
+    "email": "drew.miller340@uni.edu",
+    "major": "BIO",
+    "year": 4,
+    "gpa": 2.71
+  },
+  {
+    "student_id": 341,
+    "first_name": "Casey",
+    "last_name": "Lee",
+    "email": "casey.lee341@uni.edu",
+    "major": "MATH",
+    "year": 2,
+    "gpa": 2.94
+  },
+  {
+    "student_id": 342,
+    "first_name": "Avery",
+    "last_name": "Clark",
+    "email": "avery.clark342@uni.edu",
+    "major": "ECON",
+    "year": 2,
+    "gpa": 3.3
+  },
+  {
+    "student_id": 343,
+    "first_name": "Casey",
+    "last_name": "Johnson",
+    "email": "casey.johnson343@uni.edu",
+    "major": "BIO",
+    "year": 2,
+    "gpa": 2.09
+  },
+  {
+    "student_id": 344,
+    "first_name": "Jamie",
+    "last_name": "Brown",
+    "email": "jamie.brown344@uni.edu",
+    "major": "BIO",
+    "year": 3,
+    "gpa": 2.45
+  },
+  {
+    "student_id": 345,
+    "first_name": "Riley",
+    "last_name": "Johnson",
+    "email": "riley.johnson345@uni.edu",
+    "major": "BIO",
+    "year": 4,
+    "gpa": 2.86
+  },
+  {
+    "student_id": 346,
+    "first_name": "Alex",
+    "last_name": "Wilson",
+    "email": "alex.wilson346@uni.edu",
+    "major": "ECON",
+    "year": 1,
+    "gpa": 2.86
+  },
+  {
+    "student_id": 347,
+    "first_name": "Morgan",
+    "last_name": "Moore",
+    "email": "morgan.moore347@uni.edu",
+    "major": "MATH",
+    "year": 1,
+    "gpa": 2.56
+  },
+  {
+    "student_id": 348,
+    "first_name": "Jordan",
+    "last_name": "Davis",
+    "email": "jordan.davis348@uni.edu",
+    "major": "CS",
+    "year": 2,
+    "gpa": 3.96
+  },
+  {
+    "student_id": 349,
+    "first_name": "Sam",
+    "last_name": "Lee",
+    "email": "sam.lee349@uni.edu",
+    "major": "CS",
+    "year": 4,
+    "gpa": 3.27
+  },
+  {
+    "student_id": 350,
+    "first_name": "Alex",
+    "last_name": "Smith",
+    "email": "alex.smith350@uni.edu",
+    "major": "ECON",
+    "year": 2,
+    "gpa": 2.29
+  },
+  {
+    "student_id": 351,
+    "first_name": "Taylor",
+    "last_name": "Brown",
+    "email": "taylor.brown351@uni.edu",
+    "major": "CS",
+    "year": 3,
+    "gpa": 3.77
+  },
+  {
+    "student_id": 352,
+    "first_name": "Casey",
+    "last_name": "Hall",
+    "email": "casey.hall352@uni.edu",
+    "major": "BIO",
+    "year": 3,
+    "gpa": 3.16
+  },
+  {
+    "student_id": 353,
+    "first_name": "Morgan",
+    "last_name": "Johnson",
+    "email": "morgan.johnson353@uni.edu",
+    "major": "CS",
+    "year": 3,
+    "gpa": 2.22
+  },
+  {
+    "student_id": 354,
+    "first_name": "Morgan",
+    "last_name": "Davis",
+    "email": "morgan.davis354@uni.edu",
+    "major": "CS",
+    "year": 3,
+    "gpa": 3.52
+  },
+  {
+    "student_id": 355,
+    "first_name": "Riley",
+    "last_name": "Clark",
+    "email": "riley.clark355@uni.edu",
+    "major": "BIO",
+    "year": 4,
+    "gpa": 2.65
+  },
+  {
+    "student_id": 356,
+    "first_name": "Jordan",
+    "last_name": "Moore",
+    "email": "jordan.moore356@uni.edu",
+    "major": "ENG",
+    "year": 4,
+    "gpa": 3.13
+  },
+  {
+    "student_id": 357,
+    "first_name": "Jordan",
+    "last_name": "Wilson",
+    "email": "jordan.wilson357@uni.edu",
+    "major": "ECON",
+    "year": 1,
+    "gpa": 2.99
+  },
+  {
+    "student_id": 358,
+    "first_name": "Drew",
+    "last_name": "Brown",
+    "email": "drew.brown358@uni.edu",
+    "major": "MATH",
+    "year": 4,
+    "gpa": 3.44
+  },
+  {
+    "student_id": 359,
+    "first_name": "Taylor",
+    "last_name": "Brown",
+    "email": "taylor.brown359@uni.edu",
+    "major": "BIO",
+    "year": 2,
+    "gpa": 3.35
+  },
+  {
+    "student_id": 360,
+    "first_name": "Morgan",
+    "last_name": "Hall",
+    "email": "morgan.hall360@uni.edu",
+    "major": "MATH",
+    "year": 2,
+    "gpa": 2.39
+  },
+  {
+    "student_id": 361,
+    "first_name": "Alex",
+    "last_name": "Johnson",
+    "email": "alex.johnson361@uni.edu",
+    "major": "BIO",
+    "year": 2,
+    "gpa": 3.92
+  },
+  {
+    "student_id": 362,
+    "first_name": "Avery",
+    "last_name": "Johnson",
+    "email": "avery.johnson362@uni.edu",
+    "major": "ENG",
+    "year": 1,
+    "gpa": 2.69
+  },
+  {
+    "student_id": 363,
+    "first_name": "Avery",
+    "last_name": "Miller",
+    "email": "avery.miller363@uni.edu",
+    "major": "CS",
+    "year": 1,
+    "gpa": 3.1
+  },
+  {
+    "student_id": 364,
+    "first_name": "Jamie",
+    "last_name": "Wilson",
+    "email": "jamie.wilson364@uni.edu",
+    "major": "ECON",
+    "year": 3,
+    "gpa": 2.96
+  },
+  {
+    "student_id": 365,
+    "first_name": "Casey",
+    "last_name": "Johnson",
+    "email": "casey.johnson365@uni.edu",
+    "major": "MATH",
+    "year": 4,
+    "gpa": 2.53
+  },
+  {
+    "student_id": 366,
+    "first_name": "Avery",
+    "last_name": "Brown",
+    "email": "avery.brown366@uni.edu",
+    "major": "ECON",
+    "year": 3,
+    "gpa": 3.48
+  },
+  {
+    "student_id": 367,
+    "first_name": "Taylor",
+    "last_name": "Lee",
+    "email": "taylor.lee367@uni.edu",
+    "major": "CS",
+    "year": 3,
+    "gpa": 2.29
+  },
+  {
+    "student_id": 368,
+    "first_name": "Avery",
+    "last_name": "Brown",
+    "email": "avery.brown368@uni.edu",
+    "major": "ENG",
+    "year": 4,
+    "gpa": 2.11
+  },
+  {
+    "student_id": 369,
+    "first_name": "Casey",
+    "last_name": "Johnson",
+    "email": "casey.johnson369@uni.edu",
+    "major": "ECON",
+    "year": 4,
+    "gpa": 3.31
+  },
+  {
+    "student_id": 370,
+    "first_name": "Avery",
+    "last_name": "Lee",
+    "email": "avery.lee370@uni.edu",
+    "major": "MATH",
+    "year": 3,
+    "gpa": 3.49
+  },
+  {
+    "student_id": 371,
+    "first_name": "Drew",
+    "last_name": "Wilson",
+    "email": "drew.wilson371@uni.edu",
+    "major": "MATH",
+    "year": 2,
+    "gpa": 3.98
+  },
+  {
+    "student_id": 372,
+    "first_name": "Sam",
+    "last_name": "Wilson",
+    "email": "sam.wilson372@uni.edu",
+    "major": "ENG",
+    "year": 4,
+    "gpa": 2.28
+  },
+  {
+    "student_id": 373,
+    "first_name": "Jamie",
+    "last_name": "Hall",
+    "email": "jamie.hall373@uni.edu",
+    "major": "CS",
+    "year": 1,
+    "gpa": 3.63
+  },
+  {
+    "student_id": 374,
+    "first_name": "Sam",
+    "last_name": "Moore",
+    "email": "sam.moore374@uni.edu",
+    "major": "ENG",
+    "year": 1,
+    "gpa": 3.64
+  },
+  {
+    "student_id": 375,
+    "first_name": "Taylor",
+    "last_name": "Johnson",
+    "email": "taylor.johnson375@uni.edu",
+    "major": "BIO",
+    "year": 1,
+    "gpa": 2.37
+  },
+  {
+    "student_id": 376,
+    "first_name": "Sam",
+    "last_name": "Hall",
+    "email": "sam.hall376@uni.edu",
+    "major": "MATH",
+    "year": 4,
+    "gpa": 3.62
+  },
+  {
+    "student_id": 377,
+    "first_name": "Alex",
+    "last_name": "Brown",
+    "email": "alex.brown377@uni.edu",
+    "major": "MATH",
+    "year": 3,
+    "gpa": 2.03
+  },
+  {
+    "student_id": 378,
+    "first_name": "Jordan",
+    "last_name": "Davis",
+    "email": "jordan.davis378@uni.edu",
+    "major": "CS",
+    "year": 4,
+    "gpa": 2.52
+  },
+  {
+    "student_id": 379,
+    "first_name": "Drew",
+    "last_name": "Moore",
+    "email": "drew.moore379@uni.edu",
+    "major": "ECON",
+    "year": 2,
+    "gpa": 2.43
+  },
+  {
+    "student_id": 380,
+    "first_name": "Drew",
+    "last_name": "Miller",
+    "email": "drew.miller380@uni.edu",
+    "major": "ECON",
+    "year": 3,
+    "gpa": 2.91
+  },
+  {
+    "student_id": 381,
+    "first_name": "Morgan",
+    "last_name": "Clark",
+    "email": "morgan.clark381@uni.edu",
+    "major": "ECON",
+    "year": 3,
+    "gpa": 3.41
+  },
+  {
+    "student_id": 382,
+    "first_name": "Drew",
+    "last_name": "Hall",
+    "email": "drew.hall382@uni.edu",
+    "major": "BIO",
+    "year": 3,
+    "gpa": 3.68
+  },
+  {
+    "student_id": 383,
+    "first_name": "Taylor",
+    "last_name": "Moore",
+    "email": "taylor.moore383@uni.edu",
+    "major": "BIO",
+    "year": 2,
+    "gpa": 2.96
+  },
+  {
+    "student_id": 384,
+    "first_name": "Morgan",
+    "last_name": "Miller",
+    "email": "morgan.miller384@uni.edu",
+    "major": "CS",
+    "year": 4,
+    "gpa": 3.31
+  },
+  {
+    "student_id": 385,
+    "first_name": "Casey",
+    "last_name": "Wilson",
+    "email": "casey.wilson385@uni.edu",
+    "major": "MATH",
+    "year": 4,
+    "gpa": 3.82
+  },
+  {
+    "student_id": 386,
+    "first_name": "Taylor",
+    "last_name": "Brown",
+    "email": "taylor.brown386@uni.edu",
+    "major": "CS",
+    "year": 2,
+    "gpa": 3.37
+  },
+  {
+    "student_id": 387,
+    "first_name": "Avery",
+    "last_name": "Moore",
+    "email": "avery.moore387@uni.edu",
+    "major": "ECON",
+    "year": 1,
+    "gpa": 2.5
+  },
+  {
+    "student_id": 388,
+    "first_name": "Alex",
+    "last_name": "Clark",
+    "email": "alex.clark388@uni.edu",
+    "major": "ECON",
+    "year": 2,
+    "gpa": 3.4
+  },
+  {
+    "student_id": 389,
+    "first_name": "Taylor",
+    "last_name": "Moore",
+    "email": "taylor.moore389@uni.edu",
+    "major": "CS",
+    "year": 1,
+    "gpa": 3.38
+  },
+  {
+    "student_id": 390,
+    "first_name": "Morgan",
+    "last_name": "Smith",
+    "email": "morgan.smith390@uni.edu",
+    "major": "BIO",
+    "year": 4,
+    "gpa": 2.35
+  },
+  {
+    "student_id": 391,
+    "first_name": "Drew",
+    "last_name": "Moore",
+    "email": "drew.moore391@uni.edu",
+    "major": "ENG",
+    "year": 4,
+    "gpa": 2.12
+  },
+  {
+    "student_id": 392,
+    "first_name": "Alex",
+    "last_name": "Wilson",
+    "email": "alex.wilson392@uni.edu",
+    "major": "ENG",
+    "year": 4,
+    "gpa": 2.15
+  },
+  {
+    "student_id": 393,
+    "first_name": "Riley",
+    "last_name": "Lee",
+    "email": "riley.lee393@uni.edu",
+    "major": "MATH",
+    "year": 2,
+    "gpa": 2.26
+  },
+  {
+    "student_id": 394,
+    "first_name": "Taylor",
+    "last_name": "Smith",
+    "email": "taylor.smith394@uni.edu",
+    "major": "CS",
+    "year": 3,
+    "gpa": 2.8
+  },
+  {
+    "student_id": 395,
+    "first_name": "Alex",
+    "last_name": "Johnson",
+    "email": "alex.johnson395@uni.edu",
+    "major": "ECON",
+    "year": 3,
+    "gpa": 2.71
+  },
+  {
+    "student_id": 396,
+    "first_name": "Alex",
+    "last_name": "Clark",
+    "email": "alex.clark396@uni.edu",
+    "major": "ENG",
+    "year": 3,
+    "gpa": 3.78
+  },
+  {
+    "student_id": 397,
+    "first_name": "Jamie",
+    "last_name": "Hall",
+    "email": "jamie.hall397@uni.edu",
+    "major": "BIO",
+    "year": 2,
+    "gpa": 3.47
+  },
+  {
+    "student_id": 398,
+    "first_name": "Riley",
+    "last_name": "Brown",
+    "email": "riley.brown398@uni.edu",
+    "major": "BIO",
+    "year": 2,
+    "gpa": 4.0
+  },
+  {
+    "student_id": 399,
+    "first_name": "Casey",
+    "last_name": "Clark",
+    "email": "casey.clark399@uni.edu",
+    "major": "ECON",
+    "year": 2,
+    "gpa": 3.88
+  },
+  {
+    "student_id": 400,
+    "first_name": "Alex",
+    "last_name": "Lee",
+    "email": "alex.lee400@uni.edu",
+    "major": "ECON",
+    "year": 1,
+    "gpa": 3.9
+  },
+  {
+    "student_id": 401,
+    "first_name": "Avery",
+    "last_name": "Miller",
+    "email": "avery.miller401@uni.edu",
+    "major": "CS",
+    "year": 3,
+    "gpa": 2.85
+  },
+  {
+    "student_id": 402,
+    "first_name": "Sam",
+    "last_name": "Moore",
+    "email": "sam.moore402@uni.edu",
+    "major": "MATH",
+    "year": 1,
+    "gpa": 3.76
+  },
+  {
+    "student_id": 403,
+    "first_name": "Jordan",
+    "last_name": "Johnson",
+    "email": "jordan.johnson403@uni.edu",
+    "major": "MATH",
+    "year": 3,
+    "gpa": 2.46
+  },
+  {
+    "student_id": 404,
+    "first_name": "Taylor",
+    "last_name": "Clark",
+    "email": "taylor.clark404@uni.edu",
+    "major": "CS",
+    "year": 1,
+    "gpa": 3.02
+  },
+  {
+    "student_id": 405,
+    "first_name": "Morgan",
+    "last_name": "Lee",
+    "email": "morgan.lee405@uni.edu",
+    "major": "ECON",
+    "year": 4,
+    "gpa": 2.11
+  },
+  {
+    "student_id": 406,
+    "first_name": "Casey",
+    "last_name": "Johnson",
+    "email": "casey.johnson406@uni.edu",
+    "major": "ENG",
+    "year": 3,
+    "gpa": 3.02
+  },
+  {
+    "student_id": 407,
+    "first_name": "Avery",
+    "last_name": "Clark",
+    "email": "avery.clark407@uni.edu",
+    "major": "ENG",
+    "year": 4,
+    "gpa": 2.66
+  },
+  {
+    "student_id": 408,
+    "first_name": "Riley",
+    "last_name": "Clark",
+    "email": "riley.clark408@uni.edu",
+    "major": "CS",
+    "year": 4,
+    "gpa": 3.53
+  },
+  {
+    "student_id": 409,
+    "first_name": "Jamie",
+    "last_name": "Smith",
+    "email": "jamie.smith409@uni.edu",
+    "major": "ECON",
+    "year": 3,
+    "gpa": 2.57
+  },
+  {
+    "student_id": 410,
+    "first_name": "Casey",
+    "last_name": "Moore",
+    "email": "casey.moore410@uni.edu",
+    "major": "MATH",
+    "year": 2,
+    "gpa": 3.31
+  },
+  {
+    "student_id": 411,
+    "first_name": "Riley",
+    "last_name": "Clark",
+    "email": "riley.clark411@uni.edu",
+    "major": "CS",
+    "year": 4,
+    "gpa": 3.78
+  },
+  {
+    "student_id": 412,
+    "first_name": "Jordan",
+    "last_name": "Johnson",
+    "email": "jordan.johnson412@uni.edu",
+    "major": "MATH",
+    "year": 3,
+    "gpa": 2.5
+  },
+  {
+    "student_id": 413,
+    "first_name": "Casey",
+    "last_name": "Smith",
+    "email": "casey.smith413@uni.edu",
+    "major": "BIO",
+    "year": 2,
+    "gpa": 3.86
+  },
+  {
+    "student_id": 414,
+    "first_name": "Taylor",
+    "last_name": "Wilson",
+    "email": "taylor.wilson414@uni.edu",
+    "major": "ECON",
+    "year": 4,
+    "gpa": 3.24
+  },
+  {
+    "student_id": 415,
+    "first_name": "Sam",
+    "last_name": "Smith",
+    "email": "sam.smith415@uni.edu",
+    "major": "CS",
+    "year": 1,
+    "gpa": 3.89
+  },
+  {
+    "student_id": 416,
+    "first_name": "Avery",
+    "last_name": "Davis",
+    "email": "avery.davis416@uni.edu",
+    "major": "CS",
+    "year": 2,
+    "gpa": 3.57
+  },
+  {
+    "student_id": 417,
+    "first_name": "Jamie",
+    "last_name": "Wilson",
+    "email": "jamie.wilson417@uni.edu",
+    "major": "ECON",
+    "year": 4,
+    "gpa": 3.71
+  },
+  {
+    "student_id": 418,
+    "first_name": "Morgan",
+    "last_name": "Lee",
+    "email": "morgan.lee418@uni.edu",
+    "major": "ENG",
+    "year": 2,
+    "gpa": 3.01
+  },
+  {
+    "student_id": 419,
+    "first_name": "Jordan",
+    "last_name": "Brown",
+    "email": "jordan.brown419@uni.edu",
+    "major": "BIO",
+    "year": 2,
+    "gpa": 2.7
+  },
+  {
+    "student_id": 420,
+    "first_name": "Drew",
+    "last_name": "Lee",
+    "email": "drew.lee420@uni.edu",
+    "major": "ECON",
+    "year": 3,
+    "gpa": 2.52
+  },
+  {
+    "student_id": 421,
+    "first_name": "Jordan",
+    "last_name": "Lee",
+    "email": "jordan.lee421@uni.edu",
+    "major": "CS",
+    "year": 2,
+    "gpa": 2.18
+  },
+  {
+    "student_id": 422,
+    "first_name": "Taylor",
+    "last_name": "Davis",
+    "email": "taylor.davis422@uni.edu",
+    "major": "MATH",
+    "year": 3,
+    "gpa": 3.11
+  },
+  {
+    "student_id": 423,
+    "first_name": "Jordan",
+    "last_name": "Hall",
+    "email": "jordan.hall423@uni.edu",
+    "major": "ENG",
+    "year": 2,
+    "gpa": 3.26
+  },
+  {
+    "student_id": 424,
+    "first_name": "Casey",
+    "last_name": "Davis",
+    "email": "casey.davis424@uni.edu",
+    "major": "MATH",
+    "year": 1,
+    "gpa": 2.67
+  },
+  {
+    "student_id": 425,
+    "first_name": "Morgan",
+    "last_name": "Wilson",
+    "email": "morgan.wilson425@uni.edu",
+    "major": "CS",
+    "year": 2,
+    "gpa": 2.19
+  },
+  {
+    "student_id": 426,
+    "first_name": "Drew",
+    "last_name": "Clark",
+    "email": "drew.clark426@uni.edu",
+    "major": "MATH",
+    "year": 1,
+    "gpa": 2.95
+  },
+  {
+    "student_id": 427,
+    "first_name": "Alex",
+    "last_name": "Moore",
+    "email": "alex.moore427@uni.edu",
+    "major": "ENG",
+    "year": 2,
+    "gpa": 2.2
+  },
+  {
+    "student_id": 428,
+    "first_name": "Alex",
+    "last_name": "Johnson",
+    "email": "alex.johnson428@uni.edu",
+    "major": "BIO",
+    "year": 3,
+    "gpa": 2.36
+  },
+  {
+    "student_id": 429,
+    "first_name": "Casey",
+    "last_name": "Moore",
+    "email": "casey.moore429@uni.edu",
+    "major": "ECON",
+    "year": 4,
+    "gpa": 3.41
+  },
+  {
+    "student_id": 430,
+    "first_name": "Jamie",
+    "last_name": "Clark",
+    "email": "jamie.clark430@uni.edu",
+    "major": "MATH",
+    "year": 2,
+    "gpa": 2.23
+  },
+  {
+    "student_id": 431,
+    "first_name": "Jordan",
+    "last_name": "Miller",
+    "email": "jordan.miller431@uni.edu",
+    "major": "BIO",
+    "year": 2,
+    "gpa": 2.83
+  },
+  {
+    "student_id": 432,
+    "first_name": "Jamie",
+    "last_name": "Johnson",
+    "email": "jamie.johnson432@uni.edu",
+    "major": "CS",
+    "year": 1,
+    "gpa": 2.77
+  },
+  {
+    "student_id": 433,
+    "first_name": "Riley",
+    "last_name": "Moore",
+    "email": "riley.moore433@uni.edu",
+    "major": "ENG",
+    "year": 3,
+    "gpa": 2.27
+  },
+  {
+    "student_id": 434,
+    "first_name": "Jordan",
+    "last_name": "Wilson",
+    "email": "jordan.wilson434@uni.edu",
+    "major": "ENG",
+    "year": 2,
+    "gpa": 3.05
+  },
+  {
+    "student_id": 435,
+    "first_name": "Sam",
+    "last_name": "Moore",
+    "email": "sam.moore435@uni.edu",
+    "major": "ECON",
+    "year": 4,
+    "gpa": 2.67
+  },
+  {
+    "student_id": 436,
+    "first_name": "Riley",
+    "last_name": "Wilson",
+    "email": "riley.wilson436@uni.edu",
+    "major": "BIO",
+    "year": 3,
+    "gpa": 2.55
+  },
+  {
+    "student_id": 437,
+    "first_name": "Riley",
+    "last_name": "Moore",
+    "email": "riley.moore437@uni.edu",
+    "major": "MATH",
+    "year": 3,
+    "gpa": 2.72
+  },
+  {
+    "student_id": 438,
+    "first_name": "Drew",
+    "last_name": "Johnson",
+    "email": "drew.johnson438@uni.edu",
+    "major": "MATH",
+    "year": 4,
+    "gpa": 2.31
+  },
+  {
+    "student_id": 439,
+    "first_name": "Sam",
+    "last_name": "Lee",
+    "email": "sam.lee439@uni.edu",
+    "major": "CS",
+    "year": 1,
+    "gpa": 2.66
+  },
+  {
+    "student_id": 440,
+    "first_name": "Drew",
+    "last_name": "Lee",
+    "email": "drew.lee440@uni.edu",
+    "major": "ECON",
+    "year": 3,
+    "gpa": 2.33
+  },
+  {
+    "student_id": 441,
+    "first_name": "Morgan",
+    "last_name": "Miller",
+    "email": "morgan.miller441@uni.edu",
+    "major": "ENG",
+    "year": 3,
+    "gpa": 3.78
+  },
+  {
+    "student_id": 442,
+    "first_name": "Alex",
+    "last_name": "Johnson",
+    "email": "alex.johnson442@uni.edu",
+    "major": "ECON",
+    "year": 1,
+    "gpa": 2.22
+  },
+  {
+    "student_id": 443,
+    "first_name": "Jamie",
+    "last_name": "Miller",
+    "email": "jamie.miller443@uni.edu",
+    "major": "BIO",
+    "year": 2,
+    "gpa": 2.17
+  },
+  {
+    "student_id": 444,
+    "first_name": "Taylor",
+    "last_name": "Davis",
+    "email": "taylor.davis444@uni.edu",
+    "major": "ECON",
+    "year": 4,
+    "gpa": 2.85
+  },
+  {
+    "student_id": 445,
+    "first_name": "Riley",
+    "last_name": "Davis",
+    "email": "riley.davis445@uni.edu",
+    "major": "ENG",
+    "year": 4,
+    "gpa": 2.89
+  },
+  {
+    "student_id": 446,
+    "first_name": "Drew",
+    "last_name": "Smith",
+    "email": "drew.smith446@uni.edu",
+    "major": "BIO",
+    "year": 4,
+    "gpa": 2.78
+  },
+  {
+    "student_id": 447,
+    "first_name": "Alex",
+    "last_name": "Hall",
+    "email": "alex.hall447@uni.edu",
+    "major": "MATH",
+    "year": 3,
+    "gpa": 2.7
+  },
+  {
+    "student_id": 448,
+    "first_name": "Drew",
+    "last_name": "Clark",
+    "email": "drew.clark448@uni.edu",
+    "major": "ENG",
+    "year": 1,
+    "gpa": 2.51
+  },
+  {
+    "student_id": 449,
+    "first_name": "Morgan",
+    "last_name": "Davis",
+    "email": "morgan.davis449@uni.edu",
+    "major": "MATH",
+    "year": 1,
+    "gpa": 2.02
+  },
+  {
+    "student_id": 450,
+    "first_name": "Taylor",
+    "last_name": "Johnson",
+    "email": "taylor.johnson450@uni.edu",
+    "major": "BIO",
+    "year": 3,
+    "gpa": 3.95
+  },
+  {
+    "student_id": 451,
+    "first_name": "Casey",
+    "last_name": "Clark",
+    "email": "casey.clark451@uni.edu",
+    "major": "MATH",
+    "year": 1,
+    "gpa": 3.5
+  },
+  {
+    "student_id": 452,
+    "first_name": "Jordan",
+    "last_name": "Johnson",
+    "email": "jordan.johnson452@uni.edu",
+    "major": "BIO",
+    "year": 1,
+    "gpa": 3.42
+  },
+  {
+    "student_id": 453,
+    "first_name": "Alex",
+    "last_name": "Brown",
+    "email": "alex.brown453@uni.edu",
+    "major": "MATH",
+    "year": 1,
+    "gpa": 3.67
+  },
+  {
+    "student_id": 454,
+    "first_name": "Casey",
+    "last_name": "Wilson",
+    "email": "casey.wilson454@uni.edu",
+    "major": "CS",
+    "year": 3,
+    "gpa": 3.17
+  },
+  {
+    "student_id": 455,
+    "first_name": "Riley",
+    "last_name": "Hall",
+    "email": "riley.hall455@uni.edu",
+    "major": "ENG",
+    "year": 3,
+    "gpa": 3.89
+  },
+  {
+    "student_id": 456,
+    "first_name": "Casey",
+    "last_name": "Moore",
+    "email": "casey.moore456@uni.edu",
+    "major": "CS",
+    "year": 1,
+    "gpa": 2.9
+  },
+  {
+    "student_id": 457,
+    "first_name": "Riley",
+    "last_name": "Davis",
+    "email": "riley.davis457@uni.edu",
+    "major": "CS",
+    "year": 2,
+    "gpa": 3.05
+  },
+  {
+    "student_id": 458,
+    "first_name": "Casey",
+    "last_name": "Smith",
+    "email": "casey.smith458@uni.edu",
+    "major": "ECON",
+    "year": 4,
+    "gpa": 3.54
+  },
+  {
+    "student_id": 459,
+    "first_name": "Riley",
+    "last_name": "Lee",
+    "email": "riley.lee459@uni.edu",
+    "major": "CS",
+    "year": 3,
+    "gpa": 3.63
+  },
+  {
+    "student_id": 460,
+    "first_name": "Taylor",
+    "last_name": "Smith",
+    "email": "taylor.smith460@uni.edu",
+    "major": "CS",
+    "year": 4,
+    "gpa": 2.77
+  },
+  {
+    "student_id": 461,
+    "first_name": "Jamie",
+    "last_name": "Brown",
+    "email": "jamie.brown461@uni.edu",
+    "major": "BIO",
+    "year": 2,
+    "gpa": 3.51
+  },
+  {
+    "student_id": 462,
+    "first_name": "Jamie",
+    "last_name": "Clark",
+    "email": "jamie.clark462@uni.edu",
+    "major": "MATH",
+    "year": 2,
+    "gpa": 3.83
+  },
+  {
+    "student_id": 463,
+    "first_name": "Morgan",
+    "last_name": "Johnson",
+    "email": "morgan.johnson463@uni.edu",
+    "major": "MATH",
+    "year": 2,
+    "gpa": 3.55
+  },
+  {
+    "student_id": 464,
+    "first_name": "Jamie",
+    "last_name": "Miller",
+    "email": "jamie.miller464@uni.edu",
+    "major": "CS",
+    "year": 2,
+    "gpa": 2.12
+  },
+  {
+    "student_id": 465,
+    "first_name": "Jamie",
+    "last_name": "Hall",
+    "email": "jamie.hall465@uni.edu",
+    "major": "CS",
+    "year": 1,
+    "gpa": 3.76
+  },
+  {
+    "student_id": 466,
+    "first_name": "Casey",
+    "last_name": "Hall",
+    "email": "casey.hall466@uni.edu",
+    "major": "ECON",
+    "year": 4,
+    "gpa": 3.35
+  },
+  {
+    "student_id": 467,
+    "first_name": "Taylor",
+    "last_name": "Lee",
+    "email": "taylor.lee467@uni.edu",
+    "major": "BIO",
+    "year": 4,
+    "gpa": 2.28
+  },
+  {
+    "student_id": 468,
+    "first_name": "Alex",
+    "last_name": "Moore",
+    "email": "alex.moore468@uni.edu",
+    "major": "ECON",
+    "year": 4,
+    "gpa": 3.51
+  },
+  {
+    "student_id": 469,
+    "first_name": "Alex",
+    "last_name": "Davis",
+    "email": "alex.davis469@uni.edu",
+    "major": "ECON",
+    "year": 3,
+    "gpa": 3.62
+  },
+  {
+    "student_id": 470,
+    "first_name": "Casey",
+    "last_name": "Davis",
+    "email": "casey.davis470@uni.edu",
+    "major": "ENG",
+    "year": 4,
+    "gpa": 3.5
+  },
+  {
+    "student_id": 471,
+    "first_name": "Taylor",
+    "last_name": "Miller",
+    "email": "taylor.miller471@uni.edu",
+    "major": "MATH",
+    "year": 2,
+    "gpa": 2.19
+  },
+  {
+    "student_id": 472,
+    "first_name": "Avery",
+    "last_name": "Wilson",
+    "email": "avery.wilson472@uni.edu",
+    "major": "ECON",
+    "year": 2,
+    "gpa": 3.12
+  },
+  {
+    "student_id": 473,
+    "first_name": "Taylor",
+    "last_name": "Smith",
+    "email": "taylor.smith473@uni.edu",
+    "major": "BIO",
+    "year": 4,
+    "gpa": 3.0
+  },
+  {
+    "student_id": 474,
+    "first_name": "Riley",
+    "last_name": "Hall",
+    "email": "riley.hall474@uni.edu",
+    "major": "MATH",
+    "year": 2,
+    "gpa": 3.7
+  },
+  {
+    "student_id": 475,
+    "first_name": "Morgan",
+    "last_name": "Brown",
+    "email": "morgan.brown475@uni.edu",
+    "major": "BIO",
+    "year": 4,
+    "gpa": 2.31
+  },
+  {
+    "student_id": 476,
+    "first_name": "Sam",
+    "last_name": "Smith",
+    "email": "sam.smith476@uni.edu",
+    "major": "ENG",
+    "year": 3,
+    "gpa": 2.4
+  },
+  {
+    "student_id": 477,
+    "first_name": "Riley",
+    "last_name": "Moore",
+    "email": "riley.moore477@uni.edu",
+    "major": "ECON",
+    "year": 1,
+    "gpa": 3.52
+  },
+  {
+    "student_id": 478,
+    "first_name": "Taylor",
+    "last_name": "Davis",
+    "email": "taylor.davis478@uni.edu",
+    "major": "ENG",
+    "year": 3,
+    "gpa": 2.66
+  },
+  {
+    "student_id": 479,
+    "first_name": "Taylor",
+    "last_name": "Smith",
+    "email": "taylor.smith479@uni.edu",
+    "major": "CS",
+    "year": 2,
+    "gpa": 2.56
+  },
+  {
+    "student_id": 480,
+    "first_name": "Jordan",
+    "last_name": "Brown",
+    "email": "jordan.brown480@uni.edu",
+    "major": "BIO",
+    "year": 1,
+    "gpa": 2.7
+  },
+  {
+    "student_id": 481,
+    "first_name": "Jordan",
+    "last_name": "Davis",
+    "email": "jordan.davis481@uni.edu",
+    "major": "BIO",
+    "year": 3,
+    "gpa": 2.97
+  },
+  {
+    "student_id": 482,
+    "first_name": "Sam",
+    "last_name": "Moore",
+    "email": "sam.moore482@uni.edu",
+    "major": "BIO",
+    "year": 2,
+    "gpa": 2.54
+  },
+  {
+    "student_id": 483,
+    "first_name": "Drew",
+    "last_name": "Smith",
+    "email": "drew.smith483@uni.edu",
+    "major": "MATH",
+    "year": 2,
+    "gpa": 3.52
+  },
+  {
+    "student_id": 484,
+    "first_name": "Jamie",
+    "last_name": "Brown",
+    "email": "jamie.brown484@uni.edu",
+    "major": "ENG",
+    "year": 2,
+    "gpa": 2.9
+  },
+  {
+    "student_id": 485,
+    "first_name": "Taylor",
+    "last_name": "Lee",
+    "email": "taylor.lee485@uni.edu",
+    "major": "MATH",
+    "year": 2,
+    "gpa": 2.32
+  },
+  {
+    "student_id": 486,
+    "first_name": "Sam",
+    "last_name": "Davis",
+    "email": "sam.davis486@uni.edu",
+    "major": "ECON",
+    "year": 4,
+    "gpa": 2.39
+  },
+  {
+    "student_id": 487,
+    "first_name": "Jordan",
+    "last_name": "Hall",
+    "email": "jordan.hall487@uni.edu",
+    "major": "ECON",
+    "year": 4,
+    "gpa": 3.6
+  },
+  {
+    "student_id": 488,
+    "first_name": "Jamie",
+    "last_name": "Miller",
+    "email": "jamie.miller488@uni.edu",
+    "major": "ECON",
+    "year": 3,
+    "gpa": 3.11
+  },
+  {
+    "student_id": 489,
+    "first_name": "Jordan",
+    "last_name": "Davis",
+    "email": "jordan.davis489@uni.edu",
+    "major": "CS",
+    "year": 3,
+    "gpa": 2.27
+  },
+  {
+    "student_id": 490,
+    "first_name": "Sam",
+    "last_name": "Miller",
+    "email": "sam.miller490@uni.edu",
+    "major": "ECON",
+    "year": 1,
+    "gpa": 2.1
+  },
+  {
+    "student_id": 491,
+    "first_name": "Avery",
+    "last_name": "Brown",
+    "email": "avery.brown491@uni.edu",
+    "major": "BIO",
+    "year": 3,
+    "gpa": 2.04
+  },
+  {
+    "student_id": 492,
+    "first_name": "Riley",
+    "last_name": "Lee",
+    "email": "riley.lee492@uni.edu",
+    "major": "ENG",
+    "year": 3,
+    "gpa": 2.35
+  },
+  {
+    "student_id": 493,
+    "first_name": "Sam",
+    "last_name": "Hall",
+    "email": "sam.hall493@uni.edu",
+    "major": "BIO",
+    "year": 2,
+    "gpa": 3.88
+  },
+  {
+    "student_id": 494,
+    "first_name": "Sam",
+    "last_name": "Brown",
+    "email": "sam.brown494@uni.edu",
+    "major": "BIO",
+    "year": 1,
+    "gpa": 2.72
+  },
+  {
+    "student_id": 495,
+    "first_name": "Sam",
+    "last_name": "Hall",
+    "email": "sam.hall495@uni.edu",
+    "major": "BIO",
+    "year": 2,
+    "gpa": 2.72
+  },
+  {
+    "student_id": 496,
+    "first_name": "Drew",
+    "last_name": "Moore",
+    "email": "drew.moore496@uni.edu",
+    "major": "ENG",
+    "year": 3,
+    "gpa": 3.77
+  },
+  {
+    "student_id": 497,
+    "first_name": "Jordan",
+    "last_name": "Brown",
+    "email": "jordan.brown497@uni.edu",
+    "major": "BIO",
+    "year": 1,
+    "gpa": 2.08
+  },
+  {
+    "student_id": 498,
+    "first_name": "Casey",
+    "last_name": "Moore",
+    "email": "casey.moore498@uni.edu",
+    "major": "ECON",
+    "year": 4,
+    "gpa": 2.54
+  },
+  {
+    "student_id": 499,
+    "first_name": "Jamie",
+    "last_name": "Davis",
+    "email": "jamie.davis499@uni.edu",
+    "major": "ECON",
+    "year": 4,
+    "gpa": 2.3
+  },
+  {
+    "student_id": 500,
+    "first_name": "Taylor",
+    "last_name": "Brown",
+    "email": "taylor.brown500@uni.edu",
+    "major": "ENG",
+    "year": 1,
+    "gpa": 3.42
+  }
+]
